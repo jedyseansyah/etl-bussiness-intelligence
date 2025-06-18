@@ -16,7 +16,7 @@ Proyek ini bertujuan untuk membangun pipeline ETL (Extract, Transform, Load) men
 
 ## Afiliasi
 
-Proyek ini bertujuan memenuhi tugas mata kuliah Bussiness Intelligence, program studi Sistem Informasi, Fakultas Teknik, Universitas Negeri Surabaya
+Proyek ini bertujuan memenuhi tugas mata kuliah Bussiness Intelligence, program studi Sistem Informasi, Fakultas Teknik, Universitas Negeri Surabaya (SI UNESA) - https://si.ft.unesa.ac.id/
 
 Dosen pengampu: Cendra Devayana Putra, S.Kom., M.IM. - cendradevayanaputra@gmail.com
 
