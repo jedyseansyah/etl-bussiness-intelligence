@@ -22,7 +22,7 @@ Dosen pengampu: Cendra Devayana Putra, S.Kom., M.IM. - cendradevayanaputra@gmail
 
 ## Kontributor
 Kelompok 4 BUIN1
-- Jedy Sean Syah (23051214014) - jedy.23014@mhs.unesa.ac.id
-- Rangga Andika Dwi Indarto (23051214018)
+- Jedy Sean Syah (23051214014) - jedysyah@gmail.com
+- Rangga Andika Dwi Indarto (23051214018) - ranggaandika444@gmail.com
 - Arya Alifsian Purwanto (23051214024)
-- Faizal Ibrahim Anshori (23051214027)
+- Faizal Ibrahim Anshori (23051214027) - ibrahimfaisal640@gmail.com
