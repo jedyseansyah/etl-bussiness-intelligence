@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>{{ judul_halaman }}</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      background-color: #f4f4f9;
+    }
+
+    .container {
+      padding: 40px;
+    }
+
+    nav {
+      background-color: #333;
+      padding: 1rem;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    h1,
+    h2 {
+      color: #333;
+    }
+
+    /* Style untuk container grafik */
+    .chart-container {
+      width: 90%;
+      max-width: 1200px;
+      margin: auto;
+      padding: 20px;
+      background-color: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      margin-bottom: 40px;
+      text-align: center;
+      /* Pusatkan gambar */
+    }
+
+    .chart-container img {
+      max-width: 100%;
+      /* Pastikan gambar responsif */
+      height: auto;
+    }
+
+    table,
+    th,
+    td {
+      border: 1px solid #ddd;
+      border-collapse: collapse;
+      padding: 12px;
+      text-align: left;
+      background-color: white;
+    }
+
+    th {
+      background-color: #0056b3;
+      color: white;
+    }
+  </style>
+</head>
+
+<body>
+  <nav>
+    <!-- <a href="{% url 'index' %}">Dashboard</a> -->
+    <!-- <a href="{% url 'tampil_campaign' %}">Tabel Campaign</a> -->
+    <a href="{% url 'tampil_campaign_chart' %}">Grafik Campaign</a>
+    <!-- <a href="{% url 'tampil_customers' %}">Tabel Customers</a> -->
+    <a href="{% url 'tampil_customers_chart' %}">Grafik Customers</a>
+    <!-- <a href="{% url 'tampil_sales' %}">Tabel Sales</a> -->
+    <a href="{% url 'tampil_sales_chart' %}">Grafik Sales</a>
+  </nav>
+
+  <div class="container">
+    <h1>{{ judul_halaman }}</h1>
+
+    <div class="chart-container">
+      <!-- <h2>Visualisasi FactSales (2020-2021)</h2> -->
+      {% if chart_base64 %}
+      <img src="data:image/png;base64, {{ chart_base64 }}" alt="Grafik Penjualan">
+      {% else %}
+      <p>Tidak ada data yang cukup untuk membuat grafik.</p>
+      {% endif %}
+    </div>
+
+    <h2>Tabel Data Sales</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Product</th>
+          <th>Year</th>
+          <th>Month</th>
+          <th>Retailer</th>
+          <th>Sales Method</th>
+          <th>Units Sold</th>
+          <th>Revenue</th>
+          <th>Operating Profit</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for item in sales_data %}
+        <tr>
+          <td>{{ item.product }}</td>
+          <td>{{ item.year }}</td>
+          <td>{{ item.month }}</td>
+          <td>{{ item.retailer }}</td>
+          <td>{{ item.sales_method }}</td>
+          <td>{{ item.units_sold }}</td>
+          <td>{{ item.revenue }}</td>
+          <td>{{ item.operating_profit }}</td>
+        </tr>
+        {% empty %}
+        <tr>
+          <td colspan="8">Tidak ada data untuk ditampilkan.</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+</body>
+
+</html>

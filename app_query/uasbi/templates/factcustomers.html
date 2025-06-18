@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>{{ judul_halaman }}</title>
+  <style>
+    table,
+    th,
+    td {
+      border: 1px solid black;
+      border-collapse: collapse;
+      padding: 8px;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>{{ judul_halaman }}</h1>
+  <table>
+    <thead>
+      <tr>
+        <th>Year</th>
+        <th>Month</th>
+        <th>State</th>
+        <th>City</th>
+        <th>Product</th>
+        <th>Units Sold</th>
+        <th>Revenue</th>
+        <th>Operating Profit</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for item in customers %}
+      <tr>
+        <td>{{ item.year }}</td>
+        <td>{{ item.month }}</td>
+        <td>{{ item.state }}</td>
+        <td>{{ item.city }}</td>
+        <td>{{ item.product }}</td>
+        <td>{{ item.units_sold }}</td>
+        <td>{{ item.revenue }}</td>
+        <td>{{ item.operating_profit }}</td>
+      </tr>
+      {% empty %}
+      <tr>
+        <td colspan="8">Tidak ada data untuk ditampilkan.</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</body>
+
+</html>
