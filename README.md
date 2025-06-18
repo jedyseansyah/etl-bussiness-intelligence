@@ -24,5 +24,5 @@ Dosen pengampu: Cendra Devayana Putra, S.Kom., M.IM. - cendradevayanaputra@gmail
 Kelompok 4 BUIN1
 - Jedy Sean Syah (23051214014) - jedysyah@gmail.com
 - Rangga Andika Dwi Indarto (23051214018) - ranggaandika444@gmail.com
-- Arya Alifsian Purwanto (23051214024)
+- Arya Alifsian Purwanto (23051214024) - aryaalifsian7@gmail.com
 - Faizal Ibrahim Anshori (23051214027) - ibrahimfaisal640@gmail.com
