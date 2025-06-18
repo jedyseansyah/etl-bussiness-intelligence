@@ -1,0 +1,314 @@
+Country,Year,Month,NumberOfItemsPurchased
+Australia,2018,2,2724
+Australia,2018,3,32400
+Australia,2018,4,52116
+Australia,2018,5,62814
+Australia,2018,6,1764
+Australia,2018,7,50112
+Australia,2018,8,95124
+Australia,2018,9,34050
+Australia,2018,10,76920
+Australia,2018,11,19410
+Australia,2018,12,49254
+Australia,2019,1,23886
+Australia,2019,2,1344
+Austria,2018,2,18
+Austria,2018,4,2052
+Austria,2018,5,318
+Austria,2018,6,5574
+Austria,2018,7,2118
+Austria,2018,8,2568
+Austria,2018,9,600
+Austria,2018,10,7578
+Austria,2018,12,2946
+Austria,2019,1,4302
+Austria,2019,2,888
+Bahrain,2018,3,0
+Bahrain,2018,7,1560
+Belgium,2018,2,4878
+Belgium,2018,3,9156
+Belgium,2018,4,2958
+Belgium,2018,5,7104
+Belgium,2018,6,13758
+Belgium,2018,7,7644
+Belgium,2018,8,14778
+Belgium,2018,9,7710
+Belgium,2018,10,15324
+Belgium,2018,11,7062
+Belgium,2018,12,20886
+Belgium,2019,1,19134
+Belgium,2019,2,8520
+Brazil,2018,6,2136
+Canada,2018,5,528
+Canada,2018,7,3024
+Canada,2018,9,12714
+Canada,2018,11,312
+Channel Islands,2018,2,480
+Channel Islands,2018,4,7140
+Channel Islands,2018,5,12624
+Channel Islands,2018,6,582
+Channel Islands,2018,7,1338
+Channel Islands,2018,8,5004
+Channel Islands,2018,10,1026
+Channel Islands,2018,11,11022
+Channel Islands,2018,12,13020
+Channel Islands,2019,1,4296
+Channel Islands,2019,2,342
+Cyprus,2018,2,5502
+Cyprus,2018,3,864
+Cyprus,2018,4,12096
+Cyprus,2018,5,7074
+Cyprus,2018,6,-24
+Cyprus,2018,8,2136
+Cyprus,2018,12,8490
+Cyprus,2019,1,1800
+Cyprus,2019,2,-36
+Czech Republic,2018,5,2076
+Czech Republic,2018,6,-234
+Czech Republic,2018,12,1950
+Czech Republic,2019,1,-240
+Denmark,2018,2,2724
+Denmark,2018,4,1344
+Denmark,2018,5,5274
+Denmark,2018,7,2208
+Denmark,2018,8,4758
+Denmark,2018,9,4506
+Denmark,2018,10,3420
+Denmark,2018,12,14064
+Denmark,2019,1,6720
+Denmark,2019,2,4110
+EIRE,2018,2,30786
+EIRE,2018,3,38562
+EIRE,2018,4,43338
+EIRE,2018,5,50022
+EIRE,2018,6,33474
+EIRE,2018,7,44808
+EIRE,2018,8,52656
+EIRE,2018,9,91938
+EIRE,2018,10,105252
+EIRE,2018,11,94716
+EIRE,2018,12,106692
+EIRE,2019,1,111366
+EIRE,2019,2,52212
+European Community,2018,7,204
+European Community,2018,8,768
+European Community,2018,10,2010
+Finland,2018,2,7524
+Finland,2018,4,4590
+Finland,2018,5,13608
+Finland,2018,6,6252
+Finland,2018,7,918
+Finland,2018,9,8580
+Finland,2018,10,3180
+Finland,2018,11,1932
+Finland,2018,12,6792
+Finland,2019,1,5958
+Finland,2019,2,4662
+France,2018,2,20274
+France,2018,3,38028
+France,2018,4,40068
+France,2018,5,26742
+France,2018,6,47730
+France,2018,7,45666
+France,2018,8,62712
+France,2018,9,39978
+France,2018,10,28206
+France,2018,11,64392
+France,2018,12,78480
+France,2019,1,112542
+France,2019,2,53550
+France,2028,2,4512
+Germany,2018,2,30768
+Germany,2018,3,34710
+Germany,2018,4,38718
+Germany,2018,5,39396
+Germany,2018,6,39066
+Germany,2018,7,76470
+Germany,2018,8,44376
+Germany,2018,9,50088
+Germany,2018,10,45048
+Germany,2018,11,63030
+Germany,2018,12,125046
+Germany,2019,1,65034
+Germany,2019,2,52008
+Germany,2028,2,930
+Greece,2018,4,3156
+Greece,2018,5,1734
+Greece,2018,6,1572
+Greece,2018,9,1458
+Greece,2019,2,1416
+Hong Kong,2018,4,6726
+Hong Kong,2018,5,0
+Hong Kong,2018,6,4392
+Hong Kong,2018,7,7572
+Hong Kong,2018,9,3222
+Hong Kong,2018,11,4416
+Hong Kong,2018,12,1410
+Hong Kong,2019,1,876
+Iceland,2018,4,1890
+Iceland,2018,6,2898
+Iceland,2018,8,1176
+Iceland,2018,10,1662
+Iceland,2019,1,4056
+Iceland,2019,2,1152
+Iceland,2028,2,1914
+Israel,2018,2,-336
+Israel,2018,3,600
+Israel,2018,4,1716
+Israel,2018,6,180
+Israel,2018,9,3798
+Israel,2018,10,18168
+Israel,2018,11,1398
+Israel,2018,12,594
+Italy,2018,2,972
+Italy,2018,3,5256
+Italy,2018,4,2100
+Italy,2018,5,3798
+Italy,2018,6,3648
+Italy,2018,7,1248
+Italy,2018,8,1932
+Italy,2018,9,-24
+Italy,2018,10,5892
+Italy,2018,11,1008
+Italy,2018,12,5670
+Italy,2019,1,8562
+Italy,2019,2,7932
+Japan,2018,2,24558
+Japan,2018,3,-270
+Japan,2018,4,17994
+Japan,2018,5,6
+Japan,2018,6,44604
+Japan,2018,7,4260
+Japan,2018,9,13536
+Japan,2018,10,13968
+Japan,2018,11,702
+Japan,2019,1,20004
+Japan,2019,2,11946
+Lebanon,2018,4,2316
+Lithuania,2018,2,3912
+Malta,2018,8,2250
+Malta,2018,9,144
+Malta,2018,10,1818
+Malta,2018,11,444
+Malta,2019,1,1104
+Malta,2019,2,-96
+Netherlands,2018,2,582
+Netherlands,2018,3,89544
+Netherlands,2018,4,80514
+Netherlands,2018,5,93462
+Netherlands,2018,6,94410
+Netherlands,2018,7,86310
+Netherlands,2018,8,85746
+Netherlands,2018,9,68544
+Netherlands,2018,10,143478
+Netherlands,2018,11,67878
+Netherlands,2018,12,72270
+Netherlands,2019,1,222504
+Netherlands,2019,2,95526
+Norway,2018,2,21492
+Norway,2018,4,1770
+Norway,2018,5,534
+Norway,2018,6,6
+Norway,2018,9,12054
+Norway,2018,10,7332
+Norway,2018,11,13278
+Norway,2018,12,15024
+Norway,2019,1,12720
+Norway,2019,2,31272
+Poland,2018,2,840
+Poland,2018,3,1728
+Poland,2018,4,1782
+Poland,2018,5,972
+Poland,2018,6,2538
+Poland,2018,7,696
+Poland,2018,8,3420
+Poland,2018,9,1728
+Poland,2018,10,804
+Poland,2018,11,1812
+Poland,2019,1,5598
+Portugal,2018,2,5670
+Portugal,2018,3,3750
+Portugal,2018,4,8718
+Portugal,2018,5,10002
+Portugal,2018,6,8808
+Portugal,2018,7,1866
+Portugal,2018,8,2520
+Portugal,2018,9,5868
+Portugal,2018,10,8826
+Portugal,2018,11,1362
+Portugal,2018,12,22920
+Portugal,2019,1,4206
+Portugal,2019,2,12564
+RSA,2018,12,2112
+Saudi Arabia,2018,5,450
+Singapore,2018,4,6546
+Singapore,2018,6,8304
+Singapore,2018,9,12960
+Singapore,2018,12,3594
+Spain,2018,2,5202
+Spain,2018,3,16530
+Spain,2018,4,11712
+Spain,2018,5,4758
+Spain,2018,6,11394
+Spain,2018,7,9792
+Spain,2018,8,12726
+Spain,2018,9,12624
+Spain,2018,10,10848
+Spain,2018,11,9900
+Spain,2018,12,20736
+Spain,2019,1,22146
+Spain,2019,2,12576
+Sweden,2018,2,22284
+Sweden,2018,3,1752
+Sweden,2018,4,18324
+Sweden,2018,5,30936
+Sweden,2018,6,1848
+Sweden,2018,7,17628
+Sweden,2018,8,1452
+Sweden,2018,9,20424
+Sweden,2018,10,23250
+Sweden,2018,11,26592
+Sweden,2018,12,36372
+Sweden,2019,1,12252
+Sweden,2019,2,708
+Switzerland,2018,2,660
+Switzerland,2018,3,3624
+Switzerland,2018,4,19212
+Switzerland,2018,5,7260
+Switzerland,2018,6,5802
+Switzerland,2018,7,14184
+Switzerland,2018,8,22476
+Switzerland,2018,9,6660
+Switzerland,2018,10,24930
+Switzerland,2018,11,2208
+Switzerland,2018,12,38502
+Switzerland,2019,1,34428
+Switzerland,2019,2,2004
+USA,2018,7,822
+USA,2018,12,0
+USA,2019,1,2934
+USA,2019,2,2448
+United Arab Emirates,2018,4,2976
+United Arab Emirates,2018,11,2910
+United Arab Emirates,2018,12,6
+United Kingdom,2018,2,1453482
+United Kingdom,2018,3,1016940
+United Kingdom,2018,4,1369500
+United Kingdom,2018,5,1447956
+United Kingdom,2018,6,1816020
+United Kingdom,2018,7,1758828
+United Kingdom,2018,8,1578906
+United Kingdom,2018,9,1690416
+United Kingdom,2018,10,2161944
+United Kingdom,2018,11,1989720
+United Kingdom,2018,12,3099234
+United Kingdom,2019,1,3453720
+United Kingdom,2019,2,2603694
+United Kingdom,2028,2,142614
+Unspecified,2018,6,1692
+Unspecified,2018,7,4818
+Unspecified,2018,9,4872
+Unspecified,2018,10,1914
+Unspecified,2018,11,2658
+Unspecified,2019,1,1128
+Unspecified,2019,2,2718

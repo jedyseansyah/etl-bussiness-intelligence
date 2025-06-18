@@ -1,0 +1,1618 @@
+Product,Year,Month,Retailer,SalesMethod,UnitsSold,Revenue,OperatingProfit
+Men's Apparel,2020,1,Foot Locker,In-store,900,540.0,162.0
+Men's Apparel,2020,1,Foot Locker,Online,707,40.534,16.907
+Men's Apparel,2020,1,Foot Locker,Outlet,2651,1088.743,328.45
+Men's Apparel,2020,1,West Gear,Online,281,15.143,10.305
+Men's Apparel,2020,1,West Gear,Outlet,1363,603.942,339.555
+Men's Apparel,2020,2,Foot Locker,Online,460,26.495,11.562
+Men's Apparel,2020,2,Foot Locker,Outlet,2261,1045.524,315.057
+Men's Apparel,2020,2,West Gear,In-store,1375,961.25,514.688
+Men's Apparel,2020,2,West Gear,Online,469,30.003,20.281
+Men's Apparel,2020,2,West Gear,Outlet,835,221.369,132.448
+Men's Apparel,2020,3,Foot Locker,Online,483,27.258,11.998
+Men's Apparel,2020,3,Foot Locker,Outlet,2391,1120.748,337.254
+Men's Apparel,2020,3,West Gear,In-store,1650,1033.75,516.875
+Men's Apparel,2020,3,West Gear,Online,434,25.437,15.678999999999998
+Men's Apparel,2020,3,West Gear,Outlet,362,17.274,9.328
+Men's Apparel,2020,4,Walmart,Online,758,44.3,18.751
+Men's Apparel,2020,4,Walmart,Outlet,3558,1689.346,508.428
+Men's Apparel,2020,4,West Gear,In-store,3100,2003.75,1006.376
+Men's Apparel,2020,4,West Gear,Online,842,52.203,32.032
+Men's Apparel,2020,5,Foot Locker,In-store,775,503.75,176.313
+Men's Apparel,2020,5,Foot Locker,Online,202,12.12,5.939
+Men's Apparel,2020,5,Walmart,Online,515,31.916,13.562
+Men's Apparel,2020,5,Walmart,Outlet,2334,1180.302,355.818
+Men's Apparel,2020,5,West Gear,In-store,1750,1232.5,636.626
+Men's Apparel,2020,5,West Gear,Online,488,32.363,20.913
+Men's Apparel,2020,6,West Gear,In-store,1175,825.0,206.251
+Men's Apparel,2020,6,West Gear,Online,324,21.588,8.424
+Men's Apparel,2020,7,Sports Direct,Online,279,10.294,4.522
+Men's Apparel,2020,7,Sports Direct,Outlet,1386,429.056,129.034
+Men's Apparel,2020,7,West Gear,In-store,2325,1870.0,467.501
+Men's Apparel,2020,7,West Gear,Online,619,46.346,17.55
+Men's Apparel,2020,8,Foot Locker,In-store,2175,1196.25,418.688
+Men's Apparel,2020,8,Foot Locker,Online,595,30.950000000000003,14.858
+Men's Apparel,2020,8,Sports Direct,Online,125,5.125,2.05
+Men's Apparel,2020,8,Sports Direct,Outlet,655,230.425,69.236
+Men's Apparel,2020,8,Walmart,Online,680,28.195,11.747
+Men's Apparel,2020,8,Walmart,Outlet,3272,1139.706,343.028
+Men's Apparel,2020,8,West Gear,In-store,475,427.5,106.875
+Men's Apparel,2020,8,West Gear,Online,133,10.906,4.144
+Men's Apparel,2020,9,Foot Locker,In-store,750,412.5,144.375
+Men's Apparel,2020,9,Foot Locker,Online,225,11.7,5.265
+Men's Apparel,2020,9,Sports Direct,In-store,725,398.75,139.563
+Men's Apparel,2020,9,Sports Direct,Online,210,10.5,5.25
+Men's Apparel,2020,9,Walmart,Online,494,20.929,8.666
+Men's Apparel,2020,9,Walmart,Outlet,2468,854.336,257.516
+Men's Apparel,2020,9,West Gear,In-store,1575,1023.75,358.313
+Men's Apparel,2020,9,West Gear,Online,441,27.134,13.296
+Men's Apparel,2020,10,Foot Locker,In-store,300,135.0,40.5
+Men's Apparel,2020,10,Foot Locker,Online,83,3.481,1495.0
+Men's Apparel,2020,10,Sports Direct,In-store,1450,907.5,317.625
+Men's Apparel,2020,10,Sports Direct,Online,384,23.253,11.627
+Men's Apparel,2020,10,Walmart,Online,364,15.288,6.88
+Men's Apparel,2020,10,Walmart,Outlet,1703,597.09,179.618
+Men's Apparel,2020,11,Foot Locker,In-store,200,103.75,31.125
+Men's Apparel,2020,11,Foot Locker,Online,156,1557.047,1975.165
+Men's Apparel,2020,11,Foot Locker,Outlet,350,175.0,52.5
+Men's Apparel,2020,11,West Gear,Online,301,15.211,9.443
+Men's Apparel,2020,11,West Gear,Outlet,1413,604.754,303.125
+Men's Apparel,2020,12,Foot Locker,Online,173,785.996,3246.0
+Men's Apparel,2020,12,Foot Locker,Outlet,650,310.0,93.0
+Men's Apparel,2020,12,West Gear,Online,297,17.958,11.493
+Men's Apparel,2020,12,West Gear,Outlet,1353,682.346,341.966
+Men's Apparel,2021,1,Amazon,In-store,450,258.75,83.813
+Men's Apparel,2021,1,Amazon,Online,979,328.614,116.869
+Men's Apparel,2021,1,Amazon,Outlet,144,5.772,2.112
+Men's Apparel,2021,1,Foot Locker,In-store,1100,482.5,170.0
+Men's Apparel,2021,1,Foot Locker,Online,2781,890.714,4062.762
+Men's Apparel,2021,1,Foot Locker,Outlet,909,236.329,3162.997
+Men's Apparel,2021,1,Kohl's,In-store,675,328.75,98.625
+Men's Apparel,2021,1,Kohl's,Online,1250,257.148,861.326
+Men's Apparel,2021,1,Kohl's,Outlet,1607,681.816,407.908
+Men's Apparel,2021,1,Sports Direct,In-store,800,377.5,129.75
+Men's Apparel,2021,1,Sports Direct,Online,2054,623.298,988.044
+Men's Apparel,2021,1,Sports Direct,Outlet,610,135.606,615.905
+Men's Apparel,2021,1,West Gear,In-store,1825,841.25,316.813
+Men's Apparel,2021,1,West Gear,Online,1825,181.825,84.004
+Men's Apparel,2021,1,West Gear,Outlet,4886,2335.184,2892.116
+Men's Apparel,2021,2,Amazon,In-store,500,288.75,92.813
+Men's Apparel,2021,2,Amazon,Online,1047,322.644,114.804
+Men's Apparel,2021,2,Amazon,Outlet,414,168.884,996.924
+Men's Apparel,2021,2,Foot Locker,In-store,950,415.0,148.625
+Men's Apparel,2021,2,Foot Locker,Online,2434,797.789,5967.37
+Men's Apparel,2021,2,Foot Locker,Outlet,504,85.591,2508.629
+Men's Apparel,2021,2,Kohl's,In-store,675,328.75,98.625
+Men's Apparel,2021,2,Kohl's,Online,1167,213.11,848.593
+Men's Apparel,2021,2,Kohl's,Outlet,1712,862.108,1191.0
+Men's Apparel,2021,2,Sports Direct,In-store,800,377.5,129.75
+Men's Apparel,2021,2,Sports Direct,Online,1519,452.847,1905.775
+Men's Apparel,2021,2,Sports Direct,Outlet,441,119.25,2940.0
+Men's Apparel,2021,2,Walmart,Online,423,117.082,41.312000000000005
+Men's Apparel,2021,2,Walmart,Outlet,111,2.553,945.0
+Men's Apparel,2021,2,West Gear,In-store,1950,908.75,337.563
+Men's Apparel,2021,2,West Gear,Online,1381,144.571,2342.2650000000003
+Men's Apparel,2021,2,West Gear,Outlet,2995,1341.738,2845.548
+Men's Apparel,2021,3,Amazon,In-store,375,216.25,69.688
+Men's Apparel,2021,3,Amazon,Online,842,248.238,88.54
+Men's Apparel,2021,3,Amazon,Outlet,291,118.586,1745.438
+Men's Apparel,2021,3,Foot Locker,In-store,750,333.75,120.25
+Men's Apparel,2021,3,Foot Locker,Online,1773,1429.325,4932.012
+Men's Apparel,2021,3,Foot Locker,Outlet,326,905.618,2378.25
+Men's Apparel,2021,3,Kohl's,In-store,575,281.25,84.375
+Men's Apparel,2021,3,Kohl's,Online,1176,198.413,1336.241
+Men's Apparel,2021,3,Kohl's,Outlet,2626,1131.711,1338.078
+Men's Apparel,2021,3,Sports Direct,In-store,625,293.75,102.5
+Men's Apparel,2021,3,Sports Direct,Online,1486,371.03,3866.614
+Men's Apparel,2021,3,Sports Direct,Outlet,1569,490.21,4463.505
+Men's Apparel,2021,3,Walmart,Online,315,89.58,987.625
+Men's Apparel,2021,3,Walmart,Outlet,88,2.112,845.0
+Men's Apparel,2021,3,West Gear,In-store,1625,748.75,279.188
+Men's Apparel,2021,3,West Gear,Online,981,2114.503,3199.838
+Men's Apparel,2021,3,West Gear,Outlet,319,10.212,2222.028
+Men's Apparel,2021,4,Amazon,In-store,325,187.5,60.375
+Men's Apparel,2021,4,Amazon,Online,768,244.392,2631.291
+Men's Apparel,2021,4,Amazon,Outlet,264,94.613,1740.5
+Men's Apparel,2021,4,Foot Locker,In-store,675,325.0,123.25
+Men's Apparel,2021,4,Foot Locker,Online,1773,1270.712,4455.714
+Men's Apparel,2021,4,Foot Locker,Outlet,350,584.061,1530.551
+Men's Apparel,2021,4,Kohl's,In-store,525,257.5,77.25
+Men's Apparel,2021,4,Kohl's,Online,1143,216.945,1326.723
+Men's Apparel,2021,4,Kohl's,Outlet,2813,1066.189,1552.186
+Men's Apparel,2021,4,Sports Direct,In-store,750,385.0,135.375
+Men's Apparel,2021,4,Sports Direct,Online,1735,377.67,2310.545
+Men's Apparel,2021,4,Sports Direct,Outlet,3102,1018.277,2966.684
+Men's Apparel,2021,4,Walmart,Online,381,106.123,37.494
+Men's Apparel,2021,4,Walmart,Outlet,335,125.145,1504.0
+Men's Apparel,2021,4,West Gear,In-store,1550,808.75,303.564
+Men's Apparel,2021,4,West Gear,Online,1004,805.896,2091.827
+Men's Apparel,2021,4,West Gear,Outlet,328,9.335,3740.0
+Men's Apparel,2021,5,Amazon,In-store,575,360.0,116.25
+Men's Apparel,2021,5,Amazon,Online,987,321.258,1002.538
+Men's Apparel,2021,5,Amazon,Outlet,456,187.616,47.902
+Men's Apparel,2021,5,Foot Locker,In-store,1025,497.5,176.25
+Men's Apparel,2021,5,Foot Locker,Online,2226,782.092,4147.825
+Men's Apparel,2021,5,Foot Locker,Outlet,727,228.402,2442.921
+Men's Apparel,2021,5,Kohl's,In-store,700,350.0,105.0
+Men's Apparel,2021,5,Kohl's,Online,1646,314.383,119.208
+Men's Apparel,2021,5,Kohl's,Outlet,4286,1940.441,1069.358
+Men's Apparel,2021,5,Sports Direct,In-store,1050,571.25,195.125
+Men's Apparel,2021,5,Sports Direct,Online,1771,468.743,853.8870000000001
+Men's Apparel,2021,5,Sports Direct,Outlet,2446,873.129,1004.269
+Men's Apparel,2021,5,Walmart,Online,478,153.356,53.998000000000005
+Men's Apparel,2021,5,Walmart,Outlet,404,130.158,740.135
+Men's Apparel,2021,5,West Gear,In-store,1950,936.25,349.875
+Men's Apparel,2021,5,West Gear,Online,1381,345.61,1846.798
+Men's Apparel,2021,5,West Gear,Outlet,425,13.708,846.789
+Men's Apparel,2021,6,Amazon,In-store,625,391.25,126.375
+Men's Apparel,2021,6,Amazon,Online,1163,452.324,161.006
+Men's Apparel,2021,6,Amazon,Outlet,519,204.978,52.626
+Men's Apparel,2021,6,Foot Locker,In-store,1575,901.25,325.625
+Men's Apparel,2021,6,Foot Locker,Online,2872,2464.0,7256.301
+Men's Apparel,2021,6,Foot Locker,Outlet,1901,928.219,1166.595
+Men's Apparel,2021,6,Kohl's,In-store,750,375.0,112.5
+Men's Apparel,2021,6,Kohl's,Online,945,350.209,115.441
+Men's Apparel,2021,6,Kohl's,Outlet,93,4.092,1.432
+Men's Apparel,2021,6,Sports Direct,In-store,1200,660.0,226.813
+Men's Apparel,2021,6,Sports Direct,Online,1492,604.746,1037.082
+Men's Apparel,2021,6,Sports Direct,Outlet,259,10.11,926.588
+Men's Apparel,2021,6,Walmart,In-store,450,427.5,85.5
+Men's Apparel,2021,6,Walmart,Online,599,222.756,78.316
+Men's Apparel,2021,6,Walmart,Outlet,269,15.155,4.064
+Men's Apparel,2021,6,West Gear,In-store,2000,1128.75,424.938
+Men's Apparel,2021,6,West Gear,Online,2060,890.051,2145.012
+Men's Apparel,2021,6,West Gear,Outlet,688,34.357,14.467
+Men's Apparel,2021,7,Amazon,In-store,325,195.0,68.25
+Men's Apparel,2021,7,Amazon,Online,1316,511.783,181.702
+Men's Apparel,2021,7,Amazon,Outlet,908,448.789,124.821
+Men's Apparel,2021,7,Foot Locker,In-store,1725,1081.25,405.875
+Men's Apparel,2021,7,Foot Locker,Online,2827,2799.725,3510.444
+Men's Apparel,2021,7,Foot Locker,Outlet,2323,1150.664,1072.773
+Men's Apparel,2021,7,Kohl's,In-store,800,400.0,120.0
+Men's Apparel,2021,7,Kohl's,Online,1272,518.489,168.437
+Men's Apparel,2021,7,Kohl's,Outlet,160,6.4,2.048
+Men's Apparel,2021,7,Sports Direct,In-store,1475,820.0,277.125
+Men's Apparel,2021,7,Sports Direct,Online,1898,755.345,269.168
+Men's Apparel,2021,7,Sports Direct,Outlet,335,13.597,4.738
+Men's Apparel,2021,7,Walmart,In-store,650,617.5,123.5
+Men's Apparel,2021,7,Walmart,Online,1389,587.75,207.259
+Men's Apparel,2021,7,Walmart,Outlet,507,27.004,8.049
+Men's Apparel,2021,7,West Gear,In-store,2325,1468.75,559.563
+Men's Apparel,2021,7,West Gear,Online,2582,1182.493,486.181
+Men's Apparel,2021,7,West Gear,Outlet,848,45.944,20.609
+Men's Apparel,2021,8,Amazon,In-store,225,135.0,47.25
+Men's Apparel,2021,8,Amazon,Online,1128,409.477,145.778
+Men's Apparel,2021,8,Amazon,Outlet,627,315.446,87.708
+Men's Apparel,2021,8,Foot Locker,In-store,1250,676.25,255.375
+Men's Apparel,2021,8,Foot Locker,Online,2143,802.73,1824.414
+Men's Apparel,2021,8,Foot Locker,Outlet,658,224.332,611.793
+Men's Apparel,2021,8,Kohl's,In-store,675,337.5,101.25
+Men's Apparel,2021,8,Kohl's,Online,1129,490.247,1065.518
+Men's Apparel,2021,8,Kohl's,Outlet,162,7.776,2.644
+Men's Apparel,2021,8,Sports Direct,In-store,1150,567.5,193.0
+Men's Apparel,2021,8,Sports Direct,Online,2996,974.915,4793.328
+Men's Apparel,2021,8,Sports Direct,Outlet,3703,1030.493,5003.778
+Men's Apparel,2021,8,Walmart,In-store,475,380.0,76.0
+Men's Apparel,2021,8,Walmart,Online,1350,444.261,155.577
+Men's Apparel,2021,8,Walmart,Outlet,962,388.008,61.63
+Men's Apparel,2021,8,West Gear,In-store,1925,1005.0,381.625
+Men's Apparel,2021,8,West Gear,Online,1543,498.533,212.247
+Men's Apparel,2021,8,West Gear,Outlet,502,21.059,986.082
+Men's Apparel,2021,9,Amazon,In-store,200,120.0,42.0
+Men's Apparel,2021,9,Amazon,Online,1003,264.55,94.256
+Men's Apparel,2021,9,Amazon,Outlet,563,282.874,78.793
+Men's Apparel,2021,9,Foot Locker,In-store,950,416.25,152.313
+Men's Apparel,2021,9,Foot Locker,Online,1812,650.36,3363.303
+Men's Apparel,2021,9,Foot Locker,Outlet,235,9.256,407.088
+Men's Apparel,2021,9,Kohl's,In-store,650,325.0,97.5
+Men's Apparel,2021,9,Kohl's,Online,988,326.635,1608.166
+Men's Apparel,2021,9,Kohl's,Outlet,145,5.8,2.03
+Men's Apparel,2021,9,Sports Direct,In-store,1025,488.75,167.563
+Men's Apparel,2021,9,Sports Direct,Online,3280,765.275,2273.85
+Men's Apparel,2021,9,Sports Direct,Outlet,6303,2226.71,2192.224
+Men's Apparel,2021,9,Walmart,In-store,275,192.5,38.5
+Men's Apparel,2021,9,Walmart,Online,1092,217.741,76.428
+Men's Apparel,2021,9,Walmart,Outlet,687,272.478,820.646
+Men's Apparel,2021,9,West Gear,In-store,1575,663.75,246.938
+Men's Apparel,2021,9,West Gear,Online,1084,235.443,2900.134
+Men's Apparel,2021,9,West Gear,Outlet,352,10.483,1344.185
+Men's Apparel,2021,10,Amazon,In-store,175,122.5,42.875
+Men's Apparel,2021,10,Amazon,Online,945,262.567,2805.623
+Men's Apparel,2021,10,Amazon,Outlet,708,380.69,95.555
+Men's Apparel,2021,10,Foot Locker,In-store,975,503.75,182.813
+Men's Apparel,2021,10,Foot Locker,Online,1709,611.833,2912.896
+Men's Apparel,2021,10,Foot Locker,Outlet,615,1132.904,2004.944
+Men's Apparel,2021,10,Kohl's,In-store,600,336.25,100.875
+Men's Apparel,2021,10,Kohl's,Online,803,263.046,1640.158
+Men's Apparel,2021,10,Kohl's,Outlet,114,4.674,1.542
+Men's Apparel,2021,10,Sports Direct,In-store,775,425.0,147.375
+Men's Apparel,2021,10,Sports Direct,Online,2532,601.323,1524.016
+Men's Apparel,2021,10,Sports Direct,Outlet,3990,1567.655,1830.251
+Men's Apparel,2021,10,Walmart,In-store,350,227.5,45.5
+Men's Apparel,2021,10,Walmart,Online,974,220.569,77.398
+Men's Apparel,2021,10,Walmart,Outlet,562,172.488,733.677
+Men's Apparel,2021,10,West Gear,In-store,1525,750.0,279.75
+Men's Apparel,2021,10,West Gear,Online,1127,261.18,2408.009
+Men's Apparel,2021,10,West Gear,Outlet,358,11.284,1234.771
+Men's Apparel,2021,11,Amazon,In-store,525,355.0,108.0
+Men's Apparel,2021,11,Amazon,Online,1062,1356.417,3135.707
+Men's Apparel,2021,11,Amazon,Outlet,1194,638.45,160.524
+Men's Apparel,2021,11,Foot Locker,In-store,1550,976.25,355.5
+Men's Apparel,2021,11,Foot Locker,Online,2504,1038.328,3708.458
+Men's Apparel,2021,11,Foot Locker,Outlet,1446,1574.791,3133.302
+Men's Apparel,2021,11,Kohl's,In-store,750,440.0,132.0
+Men's Apparel,2021,11,Kohl's,Online,1055,493.175,161.567
+Men's Apparel,2021,11,Kohl's,Outlet,216,12.174,4.657
+Men's Apparel,2021,11,Sports Direct,In-store,850,510.0,180.0
+Men's Apparel,2021,11,Sports Direct,Online,2743,1386.949,491.844
+Men's Apparel,2021,11,Sports Direct,Outlet,461,22.113,873.561
+Men's Apparel,2021,11,Walmart,In-store,475,403.75,80.75
+Men's Apparel,2021,11,Walmart,Online,237,18.927,5.678
+Men's Apparel,2021,11,Walmart,Outlet,522,327.276,50.115
+Men's Apparel,2021,11,West Gear,In-store,1950,1191.25,459.125
+Men's Apparel,2021,11,West Gear,Online,1571,640.084,264.295
+Men's Apparel,2021,11,West Gear,Outlet,520,24.365,10.717
+Men's Apparel,2021,12,Amazon,In-store,625,422.5,128.375
+Men's Apparel,2021,12,Amazon,Online,1140,501.446,1688.56
+Men's Apparel,2021,12,Amazon,Outlet,669,290.922,73.767
+Men's Apparel,2021,12,Foot Locker,In-store,2075,1252.5,437.5
+Men's Apparel,2021,12,Foot Locker,Online,3383,1401.605,2005.803
+Men's Apparel,2021,12,Foot Locker,Outlet,2225,907.123,3149.362
+Men's Apparel,2021,12,Kohl's,In-store,900,585.0,194.188
+Men's Apparel,2021,12,Kohl's,Online,1090,445.016,148.524
+Men's Apparel,2021,12,Kohl's,Outlet,207,9.968,3.713
+Men's Apparel,2021,12,Sports Direct,In-store,975,680.0,242.0
+Men's Apparel,2021,12,Sports Direct,Online,2805,1354.527,464.271
+Men's Apparel,2021,12,Sports Direct,Outlet,941,410.315,67.933
+Men's Apparel,2021,12,West Gear,In-store,2525,1635.0,554.125
+Men's Apparel,2021,12,West Gear,Online,1875,732.922,263.815
+Men's Apparel,2021,12,West Gear,Outlet,592,29.882,10.977
+Men's Athletic Footwear,2020,1,Foot Locker,In-store,1000,500.0,150.0
+Men's Athletic Footwear,2020,1,Foot Locker,Online,780,36.658,15.761
+Men's Athletic Footwear,2020,1,Foot Locker,Outlet,2775,947.33,285.805
+Men's Athletic Footwear,2020,1,West Gear,Online,571,29.216,11.593
+Men's Athletic Footwear,2020,1,West Gear,Outlet,2665,1126.754,296.371
+Men's Athletic Footwear,2020,2,Foot Locker,Online,493,23.948,9.689
+Men's Athletic Footwear,2020,2,Foot Locker,Outlet,2436,980.727,295.096
+Men's Athletic Footwear,2020,2,West Gear,In-store,1800,1202.5,263.25
+Men's Athletic Footwear,2020,2,West Gear,Online,848,52.109,19.325
+Men's Athletic Footwear,2020,2,West Gear,Outlet,2117,796.644,218.896
+Men's Athletic Footwear,2020,3,Foot Locker,Online,845,45.055,18.614
+Men's Athletic Footwear,2020,3,Foot Locker,Outlet,4067,1717.761,517.33
+Men's Athletic Footwear,2020,3,West Gear,In-store,2500,1352.5,270.5
+Men's Athletic Footwear,2020,3,West Gear,Online,685,35.586,11.883
+Men's Athletic Footwear,2020,3,West Gear,Outlet,555,25.397,6.35
+Men's Athletic Footwear,2020,4,Foot Locker,In-store,725,326.25,114.188
+Men's Athletic Footwear,2020,4,Foot Locker,Online,210,8.61,4.305
+Men's Athletic Footwear,2020,4,Walmart,Online,543,27.969,12.162
+Men's Athletic Footwear,2020,4,Walmart,Outlet,2637,1113.78,335.335
+Men's Athletic Footwear,2020,4,West Gear,In-store,4175,2652.5,849.502
+Men's Athletic Footwear,2020,4,West Gear,Online,1120,68.33500000000001,30.609
+Men's Athletic Footwear,2020,5,Sports Direct,In-store,875,481.25,168.438
+Men's Athletic Footwear,2020,5,Sports Direct,Online,254,12.954,6.088
+Men's Athletic Footwear,2020,5,Walmart,Online,300,15.3,6.426
+Men's Athletic Footwear,2020,5,Walmart,Outlet,1310,563.33,169.666
+Men's Athletic Footwear,2020,5,West Gear,In-store,2850,1795.0,448.75
+Men's Athletic Footwear,2020,5,West Gear,Online,783,45.986,17.04
+Men's Athletic Footwear,2020,6,West Gear,In-store,2250,1502.5,375.625
+Men's Athletic Footwear,2020,6,West Gear,Online,630,39.467,14.848
+Men's Athletic Footwear,2020,7,Sports Direct,Online,480,16.064999999999998,7.536
+Men's Athletic Footwear,2020,7,Sports Direct,Outlet,2309,626.167,219.764
+Men's Athletic Footwear,2020,7,West Gear,In-store,3200,2387.5,596.876
+Men's Athletic Footwear,2020,7,West Gear,Online,892,63.56,23.445
+Men's Athletic Footwear,2020,8,Foot Locker,In-store,2350,1057.5,370.125
+Men's Athletic Footwear,2020,8,Foot Locker,Online,641,26.896,13.085
+Men's Athletic Footwear,2020,8,Sports Direct,Online,461,17.754,7.99
+Men's Athletic Footwear,2020,8,Sports Direct,Outlet,2344,726.764,255.215
+Men's Athletic Footwear,2020,8,Walmart,Online,994,40.453,18.402
+Men's Athletic Footwear,2020,8,Walmart,Outlet,4950,1679.704,590.186
+Men's Athletic Footwear,2020,8,West Gear,In-store,750,637.5,159.375
+Men's Athletic Footwear,2020,8,West Gear,Online,195,15.015,5.706
+Men's Athletic Footwear,2020,9,Foot Locker,In-store,850,425.0,148.75
+Men's Athletic Footwear,2020,9,Foot Locker,Online,255,11.73,5.279
+Men's Athletic Footwear,2020,9,Sports Direct,In-store,825,412.5,144.375
+Men's Athletic Footwear,2020,9,Sports Direct,Online,215,10.105,4.547
+Men's Athletic Footwear,2020,9,Walmart,Online,429,18.021,8.382000000000001
+Men's Athletic Footwear,2020,9,Walmart,Outlet,2153,757.852,265.699
+Men's Athletic Footwear,2020,9,West Gear,In-store,1800,1080.0,378.0
+Men's Athletic Footwear,2020,9,West Gear,Online,477,26.685,12.137
+Men's Athletic Footwear,2020,10,Foot Locker,In-store,525,190.0,57.0
+Men's Athletic Footwear,2020,10,Foot Locker,Online,138,4.767,1971.0
+Men's Athletic Footwear,2020,10,Sports Direct,In-store,800,400.0,140.0
+Men's Athletic Footwear,2020,10,Sports Direct,Online,224,10.976,5.268
+Men's Athletic Footwear,2020,10,Walmart,Online,528,22.989,11.139
+Men's Athletic Footwear,2020,10,Walmart,Outlet,2489,853.308,299.924
+Men's Athletic Footwear,2020,11,Foot Locker,In-store,250,107.5,32.25
+Men's Athletic Footwear,2020,11,Foot Locker,Online,283,11.753,2006.952
+Men's Athletic Footwear,2020,11,Foot Locker,Outlet,775,340.0,102.0
+Men's Athletic Footwear,2020,11,West Gear,Online,579,29.946,9.182
+Men's Athletic Footwear,2020,11,West Gear,Outlet,2918,1195.797,240.105
+Men's Athletic Footwear,2020,12,Foot Locker,Online,260,9.883,1640.67
+Men's Athletic Footwear,2020,12,Foot Locker,Outlet,925,373.75,112.125
+Men's Athletic Footwear,2020,12,Kohl's,Online,128,5.504,2.312
+Men's Athletic Footwear,2020,12,Kohl's,Outlet,475,213.75,64.125
+Men's Athletic Footwear,2020,12,West Gear,Online,203,12.586,3.776
+Men's Athletic Footwear,2020,12,West Gear,Outlet,891,449.766,90.504
+Men's Athletic Footwear,2021,1,Amazon,In-store,650,308.75,130.813
+Men's Athletic Footwear,2021,1,Amazon,Online,1288,337.207,120.845
+Men's Athletic Footwear,2021,1,Amazon,Outlet,218,8.181,3.748
+Men's Athletic Footwear,2021,1,Foot Locker,In-store,1800,630.0,220.501
+Men's Athletic Footwear,2021,1,Foot Locker,Online,4158,1019.906,2250.874
+Men's Athletic Footwear,2021,1,Foot Locker,Outlet,1452,355.37,984.222
+Men's Athletic Footwear,2021,1,Kohl's,In-store,875,336.25,105.688
+Men's Athletic Footwear,2021,1,Kohl's,Online,1879,342.508,134.81
+Men's Athletic Footwear,2021,1,Kohl's,Outlet,2427,984.84,933.698
+Men's Athletic Footwear,2021,1,Sports Direct,In-store,1100,412.5,155.0
+Men's Athletic Footwear,2021,1,Sports Direct,Online,2853,676.505,244.888
+Men's Athletic Footwear,2021,1,Sports Direct,Outlet,975,226.41,1867.363
+Men's Athletic Footwear,2021,1,West Gear,In-store,2725,1016.25,375.188
+Men's Athletic Footwear,2021,1,West Gear,Online,2807,217.042,1010.686
+Men's Athletic Footwear,2021,1,West Gear,Outlet,7739,3579.959,1566.269
+Men's Athletic Footwear,2021,2,Amazon,In-store,475,226.25,95.563
+Men's Athletic Footwear,2021,2,Amazon,Online,1077,262.677,94.547
+Men's Athletic Footwear,2021,2,Amazon,Outlet,382,129.271,45.782
+Men's Athletic Footwear,2021,2,Foot Locker,In-store,1175,416.25,145.688
+Men's Athletic Footwear,2021,2,Foot Locker,Online,3456,888.955,2268.852
+Men's Athletic Footwear,2021,2,Foot Locker,Outlet,1266,1294.733,468.036
+Men's Athletic Footwear,2021,2,Kohl's,In-store,675,261.25,81.438
+Men's Athletic Footwear,2021,2,Kohl's,Online,2073,314.148,1718.793
+Men's Athletic Footwear,2021,2,Kohl's,Outlet,4085,1776.511,1040.653
+Men's Athletic Footwear,2021,2,Sports Direct,In-store,800,297.5,113.0
+Men's Athletic Footwear,2021,2,Sports Direct,Online,2329,555.146,2598.956
+Men's Athletic Footwear,2021,2,Sports Direct,Outlet,867,223.526,1374.524
+Men's Athletic Footwear,2021,2,West Gear,In-store,2350,900.0,331.501
+Men's Athletic Footwear,2021,2,West Gear,Online,1489,122.728,2936.914
+Men's Athletic Footwear,2021,2,West Gear,Outlet,2983,1153.285,727.77
+Men's Athletic Footwear,2021,3,Amazon,In-store,525,250.0,105.625
+Men's Athletic Footwear,2021,3,Amazon,Online,1064,251.772,90.494
+Men's Athletic Footwear,2021,3,Amazon,Outlet,418,143.548,51.022
+Men's Athletic Footwear,2021,3,Foot Locker,In-store,1200,455.0,159.25
+Men's Athletic Footwear,2021,3,Foot Locker,Online,3321,1780.459,2169.823
+Men's Athletic Footwear,2021,3,Foot Locker,Outlet,925,209.189,1515.826
+Men's Athletic Footwear,2021,3,Kohl's,In-store,725,280.0,87.5
+Men's Athletic Footwear,2021,3,Kohl's,Online,1557,303.106,1554.584
+Men's Athletic Footwear,2021,3,Kohl's,Outlet,2554,942.054,254.001
+Men's Athletic Footwear,2021,3,Sports Direct,In-store,850,317.5,120.0
+Men's Athletic Footwear,2021,3,Sports Direct,Online,2515,473.314,1638.535
+Men's Athletic Footwear,2021,3,Sports Direct,Outlet,4033,1125.737,2013.348
+Men's Athletic Footwear,2021,3,Walmart,Online,423,66.96,904.75
+Men's Athletic Footwear,2021,3,Walmart,Outlet,107,1.498,554.0
+Men's Athletic Footwear,2021,3,West Gear,In-store,2425,947.5,348.875
+Men's Athletic Footwear,2021,3,West Gear,Online,989,911.071,2506.943
+Men's Athletic Footwear,2021,3,West Gear,Outlet,401,11.96,1407.613
+Men's Athletic Footwear,2021,4,Amazon,In-store,475,226.25,95.563
+Men's Athletic Footwear,2021,4,Amazon,Online,945,220.157,1042.466
+Men's Athletic Footwear,2021,4,Amazon,Outlet,378,129.36,45.789
+Men's Athletic Footwear,2021,4,Foot Locker,In-store,1075,416.25,145.688
+Men's Athletic Footwear,2021,4,Foot Locker,Online,2288,1466.433,2795.758
+Men's Athletic Footwear,2021,4,Foot Locker,Outlet,631,1124.39,1337.998
+Men's Athletic Footwear,2021,4,Kohl's,In-store,675,261.25,81.438
+Men's Athletic Footwear,2021,4,Kohl's,Online,1663,310.473,1589.857
+Men's Athletic Footwear,2021,4,Kohl's,Outlet,3837,1437.28,361.763
+Men's Athletic Footwear,2021,4,Sports Direct,In-store,775,310.0,118.0
+Men's Athletic Footwear,2021,4,Sports Direct,Online,2579,457.278,1440.017
+Men's Athletic Footwear,2021,4,Sports Direct,Outlet,5204,1693.391,2093.933
+Men's Athletic Footwear,2021,4,Walmart,Online,479,83.412,981.514
+Men's Athletic Footwear,2021,4,Walmart,Outlet,557,252.395,878.696
+Men's Athletic Footwear,2021,4,West Gear,In-store,2175,860.0,316.189
+Men's Athletic Footwear,2021,4,West Gear,Online,1746,2051.471,2289.193
+Men's Athletic Footwear,2021,4,West Gear,Outlet,600,15.441,1380.94
+Men's Athletic Footwear,2021,5,Amazon,In-store,575,331.25,140.063
+Men's Athletic Footwear,2021,5,Amazon,Online,1167,348.096,125.297
+Men's Athletic Footwear,2021,5,Amazon,Outlet,462,172.574,61.316
+Men's Athletic Footwear,2021,5,Foot Locker,In-store,1350,612.5,214.376
+Men's Athletic Footwear,2021,5,Foot Locker,Online,2826,907.647,2778.249
+Men's Athletic Footwear,2021,5,Foot Locker,Outlet,1214,363.262,1439.9589999999998
+Men's Athletic Footwear,2021,5,Kohl's,In-store,750,337.5,106.313
+Men's Athletic Footwear,2021,5,Kohl's,Online,2266,442.674,171.478
+Men's Athletic Footwear,2021,5,Kohl's,Outlet,5705,2385.662,599.82
+Men's Athletic Footwear,2021,5,Sports Direct,In-store,1150,565.0,207.0
+Men's Athletic Footwear,2021,5,Sports Direct,Online,2250,563.587,1190.318
+Men's Athletic Footwear,2021,5,Sports Direct,Outlet,3002,872.764,1224.386
+Men's Athletic Footwear,2021,5,Walmart,Online,616,161.974,57.719
+Men's Athletic Footwear,2021,5,Walmart,Outlet,673,285.57,72.12700000000001
+Men's Athletic Footwear,2021,5,West Gear,In-store,2625,1200.0,441.001
+Men's Athletic Footwear,2021,5,West Gear,Online,2032,377.637,1999.719
+Men's Athletic Footwear,2021,5,West Gear,Outlet,705,19.991,8.259
+Men's Athletic Footwear,2021,6,Amazon,In-store,825,475.0,201.0
+Men's Athletic Footwear,2021,6,Amazon,Online,1391,371.145,134.381
+Men's Athletic Footwear,2021,6,Amazon,Outlet,660,250.88,89.272
+Men's Athletic Footwear,2021,6,Foot Locker,In-store,1975,945.0,330.75
+Men's Athletic Footwear,2021,6,Foot Locker,Online,3762,1777.439,3493.348
+Men's Athletic Footwear,2021,6,Foot Locker,Outlet,3060,1252.189,372.215
+Men's Athletic Footwear,2021,6,Kohl's,In-store,950,427.5,136.125
+Men's Athletic Footwear,2021,6,Kohl's,Online,1396,466.75,182.599
+Men's Athletic Footwear,2021,6,Kohl's,Outlet,187,8.789,3.779
+Men's Athletic Footwear,2021,6,Sports Direct,In-store,1525,725.0,265.0
+Men's Athletic Footwear,2021,6,Sports Direct,Online,1974,638.024,1135.651
+Men's Athletic Footwear,2021,6,Sports Direct,Outlet,401,15.499,6.468999999999999
+Men's Athletic Footwear,2021,6,Walmart,In-store,700,490.0,122.5
+Men's Athletic Footwear,2021,6,Walmart,Online,734,165.134,58.272000000000006
+Men's Athletic Footwear,2021,6,Walmart,Outlet,373,15.597,4.896
+Men's Athletic Footwear,2021,6,West Gear,In-store,2975,1352.5,487.563
+Men's Athletic Footwear,2021,6,West Gear,Online,3120,1048.234,400.1
+Men's Athletic Footwear,2021,6,West Gear,Outlet,944,36.47,964.41
+Men's Athletic Footwear,2021,7,Amazon,In-store,425,233.75,105.188
+Men's Athletic Footwear,2021,7,Amazon,Online,1647,582.219,208.77
+Men's Athletic Footwear,2021,7,Amazon,Outlet,1169,538.093,203.376
+Men's Athletic Footwear,2021,7,Foot Locker,In-store,2250,1298.75,454.563
+Men's Athletic Footwear,2021,7,Foot Locker,Online,3763,1068.3,2335.435
+Men's Athletic Footwear,2021,7,Foot Locker,Outlet,3876,1749.858,530.77
+Men's Athletic Footwear,2021,7,Kohl's,In-store,1000,450.0,143.438
+Men's Athletic Footwear,2021,7,Kohl's,Online,1585,599.699,231.876
+Men's Athletic Footwear,2021,7,Kohl's,Outlet,210,9.45,4.064
+Men's Athletic Footwear,2021,7,Sports Direct,In-store,1975,991.25,359.313
+Men's Athletic Footwear,2021,7,Sports Direct,Online,2334,845.323,318.707
+Men's Athletic Footwear,2021,7,Sports Direct,Outlet,398,14.741,6.258
+Men's Athletic Footwear,2021,7,Walmart,In-store,750,712.5,178.125
+Men's Athletic Footwear,2021,7,Walmart,Online,1653,627.477,222.125
+Men's Athletic Footwear,2021,7,Walmart,Outlet,618,33.394,10.684
+Men's Athletic Footwear,2021,7,West Gear,In-store,2950,1720.0,620.5
+Men's Athletic Footwear,2021,7,West Gear,Online,3336,1444.041,574.535
+Men's Athletic Footwear,2021,7,West Gear,Outlet,1053,50.143,21.392
+Men's Athletic Footwear,2021,8,Amazon,In-store,425,233.75,105.188
+Men's Athletic Footwear,2021,8,Amazon,Online,1633,581.925,208.796
+Men's Athletic Footwear,2021,8,Amazon,Outlet,1159,536.672,203.057
+Men's Athletic Footwear,2021,8,Foot Locker,In-store,2300,1303.75,456.313
+Men's Athletic Footwear,2021,8,Foot Locker,Online,4137,1521.238,573.329
+Men's Athletic Footwear,2021,8,Foot Locker,Outlet,1821,728.086,175.628
+Men's Athletic Footwear,2021,8,Kohl's,In-store,1000,450.0,143.438
+Men's Athletic Footwear,2021,8,Kohl's,Online,1626,683.722,263.719
+Men's Athletic Footwear,2021,8,Kohl's,Outlet,208,9.152,4.027
+Men's Athletic Footwear,2021,8,Sports Direct,In-store,1975,991.25,359.313
+Men's Athletic Footwear,2021,8,Sports Direct,Online,4003,950.574,365.157
+Men's Athletic Footwear,2021,8,Sports Direct,Outlet,7932,1913.939,724.213
+Men's Athletic Footwear,2021,8,Walmart,In-store,825,701.25,175.313
+Men's Athletic Footwear,2021,8,Walmart,Online,1651,650.612,229.795
+Men's Athletic Footwear,2021,8,Walmart,Outlet,633,31.878,10.648
+Men's Athletic Footwear,2021,8,West Gear,In-store,2900,1628.75,583.563
+Men's Athletic Footwear,2021,8,West Gear,Online,2462,1017.587,400.891
+Men's Athletic Footwear,2021,8,West Gear,Outlet,831,40.656,17.367
+Men's Athletic Footwear,2021,9,Amazon,In-store,325,178.75,80.438
+Men's Athletic Footwear,2021,9,Amazon,Online,1438,460.402,165.282
+Men's Athletic Footwear,2021,9,Amazon,Outlet,902,414.65,156.723
+Men's Athletic Footwear,2021,9,Foot Locker,In-store,1675,713.75,249.813
+Men's Athletic Footwear,2021,9,Foot Locker,Online,2570,848.227,1286.574
+Men's Athletic Footwear,2021,9,Foot Locker,Outlet,433,15.783,882.778
+Men's Athletic Footwear,2021,9,Kohl's,In-store,875,393.75,124.313
+Men's Athletic Footwear,2021,9,Kohl's,Online,1444,504.716,196.428
+Men's Athletic Footwear,2021,9,Kohl's,Outlet,188,7.332,3.373
+Men's Athletic Footwear,2021,9,Sports Direct,In-store,1650,712.5,257.813
+Men's Athletic Footwear,2021,9,Sports Direct,Online,4845,1139.579,456.608
+Men's Athletic Footwear,2021,9,Sports Direct,Outlet,10225,3634.217,1577.846
+Men's Athletic Footwear,2021,9,Walmart,In-store,500,325.0,81.25
+Men's Athletic Footwear,2021,9,Walmart,Online,1532,445.719,157.215
+Men's Athletic Footwear,2021,9,Walmart,Outlet,993,400.474,82.67
+Men's Athletic Footwear,2021,9,West Gear,In-store,2425,947.5,341.0
+Men's Athletic Footwear,2021,9,West Gear,Online,1735,432.996,1015.227
+Men's Athletic Footwear,2021,9,West Gear,Outlet,619,20.38,8.202
+Men's Athletic Footwear,2021,10,Amazon,In-store,300,180.0,81.0
+Men's Athletic Footwear,2021,10,Amazon,Online,1467,315.993,2560.126
+Men's Athletic Footwear,2021,10,Amazon,Outlet,1412,599.496,210.592
+Men's Athletic Footwear,2021,10,Foot Locker,In-store,1625,728.75,255.063
+Men's Athletic Footwear,2021,10,Foot Locker,Online,2619,769.654,1021.21
+Men's Athletic Footwear,2021,10,Foot Locker,Outlet,1277,375.682,2587.033
+Men's Athletic Footwear,2021,10,Kohl's,In-store,850,395.0,124.75
+Men's Athletic Footwear,2021,10,Kohl's,Online,1346,387.245,895.2729999999999
+Men's Athletic Footwear,2021,10,Kohl's,Outlet,182,6.916,2.974
+Men's Athletic Footwear,2021,10,Sports Direct,In-store,1525,705.0,254.625
+Men's Athletic Footwear,2021,10,Sports Direct,Online,3749,819.031,325.715
+Men's Athletic Footwear,2021,10,Sports Direct,Outlet,5233,1676.823,1612.699
+Men's Athletic Footwear,2021,10,Walmart,In-store,575,373.75,93.438
+Men's Athletic Footwear,2021,10,Walmart,Online,1458,232.553,986.884
+Men's Athletic Footwear,2021,10,Walmart,Outlet,962,321.573,804.157
+Men's Athletic Footwear,2021,10,West Gear,In-store,2300,943.75,339.501
+Men's Athletic Footwear,2021,10,West Gear,Online,1779,389.207,1872.455
+Men's Athletic Footwear,2021,10,West Gear,Outlet,607,16.295,1403.332
+Men's Athletic Footwear,2021,11,Amazon,In-store,300,165.0,49.5
+Men's Athletic Footwear,2021,11,Amazon,Online,1431,263.771,95.797
+Men's Athletic Footwear,2021,11,Amazon,Outlet,1377,696.58,243.803
+Men's Athletic Footwear,2021,11,Foot Locker,In-store,2075,887.5,320.0
+Men's Athletic Footwear,2021,11,Foot Locker,Online,2911,701.43,3404.525
+Men's Athletic Footwear,2021,11,Foot Locker,Outlet,2295,832.367,2256.883
+Men's Athletic Footwear,2021,11,Kohl's,In-store,900,437.5,140.188
+Men's Athletic Footwear,2021,11,Kohl's,Online,1380,456.461,694.617
+Men's Athletic Footwear,2021,11,Kohl's,Outlet,276,8.975999999999999,404.406
+Men's Athletic Footwear,2021,11,Sports Direct,In-store,1000,475.0,177.5
+Men's Athletic Footwear,2021,11,Sports Direct,Online,3625,1050.929,1344.387
+Men's Athletic Footwear,2021,11,Sports Direct,Outlet,634,18.859,879.166
+Men's Athletic Footwear,2021,11,Walmart,In-store,700,420.0,105.0
+Men's Athletic Footwear,2021,11,Walmart,Online,343,18.858,6.602
+Men's Athletic Footwear,2021,11,Walmart,Outlet,831,370.626,75.4
+Men's Athletic Footwear,2021,11,West Gear,In-store,2875,1215.0,450.438
+Men's Athletic Footwear,2021,11,West Gear,Online,2173,413.333,1817.509
+Men's Athletic Footwear,2021,11,West Gear,Outlet,776,23.1,1287.857
+Men's Athletic Footwear,2021,12,Amazon,In-store,775,446.25,169.875
+Men's Athletic Footwear,2021,12,Amazon,Online,1357,446.447,161.248
+Men's Athletic Footwear,2021,12,Amazon,Outlet,1470,695.843,244.286
+Men's Athletic Footwear,2021,12,Foot Locker,In-store,2575,1448.75,522.25
+Men's Athletic Footwear,2021,12,Foot Locker,Online,4997,1790.22,678.131
+Men's Athletic Footwear,2021,12,Foot Locker,Outlet,3051,1048.815,1133.795
+Men's Athletic Footwear,2021,12,Kohl's,In-store,1000,490.0,158.0
+Men's Athletic Footwear,2021,12,Kohl's,Online,1694,740.396,285.338
+Men's Athletic Footwear,2021,12,Kohl's,Outlet,366,17.201999999999998,7.455
+Men's Athletic Footwear,2021,12,Sports Direct,In-store,1300,650.0,243.75
+Men's Athletic Footwear,2021,12,Sports Direct,Online,3305,1416.188,515.612
+Men's Athletic Footwear,2021,12,Sports Direct,Outlet,526,21.315,8.756
+Men's Athletic Footwear,2021,12,Walmart,In-store,800,680.0,170.0
+Men's Athletic Footwear,2021,12,Walmart,Online,382,30.414,9.944
+Men's Athletic Footwear,2021,12,Walmart,Outlet,956,609.08,123.365
+Men's Athletic Footwear,2021,12,West Gear,In-store,3000,1621.25,577.438
+Men's Athletic Footwear,2021,12,West Gear,Online,2489,1006.054,393.275
+Men's Athletic Footwear,2021,12,West Gear,Outlet,806,36.814,15.316
+Men's Street Footwear,2020,1,Foot Locker,In-store,2450,1225.0,612.5
+Men's Street Footwear,2020,1,Foot Locker,Online,1303,59.974,37.189
+Men's Street Footwear,2020,1,Foot Locker,Outlet,3954,1263.736,633.188
+Men's Street Footwear,2020,1,West Gear,Online,732,33.092,17.703
+Men's Street Footwear,2020,1,West Gear,Outlet,3480,1277.693,528.814
+Men's Street Footwear,2020,2,Foot Locker,Online,317,17.118,10.956
+Men's Street Footwear,2020,2,Foot Locker,Outlet,1586,748.104,374.374
+Men's Street Footwear,2020,2,West Gear,In-store,1850,1145.0,423.5
+Men's Street Footwear,2020,2,West Gear,Online,929,53.72,28.099
+Men's Street Footwear,2020,2,West Gear,Outlet,2523,918.834,390.609
+Men's Street Footwear,2020,3,Foot Locker,Online,957,54.886,33.293
+Men's Street Footwear,2020,3,Foot Locker,Outlet,4984,2318.271,1160.201
+Men's Street Footwear,2020,3,West Gear,In-store,2750,1255.0,439.25
+Men's Street Footwear,2020,3,West Gear,Online,770,33.289,15.934
+Men's Street Footwear,2020,3,West Gear,Outlet,561,22.344,8.817
+Men's Street Footwear,2020,4,Foot Locker,In-store,1025,461.25,207.563
+Men's Street Footwear,2020,4,Foot Locker,Online,256,10.752,6.236
+Men's Street Footwear,2020,4,Walmart,Online,659,38.1,23.263
+Men's Street Footwear,2020,4,Walmart,Outlet,3161,1501.95,752.883
+Men's Street Footwear,2020,4,West Gear,In-store,5420,3309.75,1495.388
+Men's Street Footwear,2020,4,West Gear,Online,1439,81.44200000000001,47.502
+Men's Street Footwear,2020,5,Sports Direct,In-store,1075,698.75,314.438
+Men's Street Footwear,2020,5,Sports Direct,Online,323,20.349,11.395
+Men's Street Footwear,2020,5,Walmart,Online,312,19.344,12.38
+Men's Street Footwear,2020,5,Walmart,Outlet,1620,800.16,401.29
+Men's Street Footwear,2020,5,West Gear,In-store,2850,1630.0,634.0
+Men's Street Footwear,2020,5,West Gear,Online,769,40.534,20.805
+Men's Street Footwear,2020,6,West Gear,In-store,2975,1785.0,535.5
+Men's Street Footwear,2020,6,West Gear,Online,825,46.45,19.916
+Men's Street Footwear,2020,7,Sports Direct,Online,701,17.881,8.405000000000001
+Men's Street Footwear,2020,7,Sports Direct,Outlet,3456,716.62,251.767
+Men's Street Footwear,2020,7,West Gear,In-store,4100,3028.75,908.625
+Men's Street Footwear,2020,7,West Gear,Online,1111,76.845,32.056
+Men's Street Footwear,2020,8,Foot Locker,In-store,3220,1449.0,652.05
+Men's Street Footwear,2020,8,Foot Locker,Online,860,36.717,21.019
+Men's Street Footwear,2020,8,Sports Direct,Online,234,6.318,3.033
+Men's Street Footwear,2020,8,Sports Direct,Outlet,1206,277.038,97.104
+Men's Street Footwear,2020,8,Walmart,Online,1012,35.776,16.916
+Men's Street Footwear,2020,8,Walmart,Outlet,4960,1440.11,505.429
+Men's Street Footwear,2020,9,Foot Locker,In-store,1050,577.5,259.875
+Men's Street Footwear,2020,9,Foot Locker,Online,284,15.052,8.279
+Men's Street Footwear,2020,9,Sports Direct,In-store,1000,600.0,270.0
+Men's Street Footwear,2020,9,Sports Direct,Online,270,15.12,9.072
+Men's Street Footwear,2020,9,Walmart,Online,495,21.78,10.666
+Men's Street Footwear,2020,9,Walmart,Outlet,2186,759.644,266.822
+Men's Street Footwear,2020,9,West Gear,In-store,2275,1478.75,665.438
+Men's Street Footwear,2020,9,West Gear,Online,603,36.18,21.161
+Men's Street Footwear,2020,10,Foot Locker,In-store,1395,510.5,178.675
+Men's Street Footwear,2020,10,Foot Locker,Online,382,13.167000000000002,6.151
+Men's Street Footwear,2020,10,Sports Direct,In-store,975,585.0,263.25
+Men's Street Footwear,2020,10,Sports Direct,Online,244,13.664,7.925
+Men's Street Footwear,2020,10,Walmart,Online,472,19.82,9.614
+Men's Street Footwear,2020,10,Walmart,Outlet,2453,852.336,299.125
+Men's Street Footwear,2020,11,Foot Locker,In-store,845,382.5,133.875
+Men's Street Footwear,2020,11,Foot Locker,Online,639,28.831,13.643
+Men's Street Footwear,2020,11,Foot Locker,Outlet,1500,728.75,255.063
+Men's Street Footwear,2020,11,West Gear,Online,662,27.254,12.678
+Men's Street Footwear,2020,11,West Gear,Outlet,3275,1090.804,383.057
+Men's Street Footwear,2020,12,Foot Locker,Online,426,19.263,9.287
+Men's Street Footwear,2020,12,Foot Locker,Outlet,1650,807.5,282.626
+Men's Street Footwear,2020,12,Kohl's,Online,119,3.808,2.209
+Men's Street Footwear,2020,12,Kohl's,Outlet,475,166.25,74.813
+Men's Street Footwear,2020,12,West Gear,Online,480,26.880000000000003,13.057
+Men's Street Footwear,2020,12,West Gear,Outlet,2316,1087.72,409.096
+Men's Street Footwear,2021,1,Amazon,In-store,1050,498.75,211.313
+Men's Street Footwear,2021,1,Amazon,Online,1887,495.56,201.633
+Men's Street Footwear,2021,1,Amazon,Outlet,352,12.146999999999998,5.787
+Men's Street Footwear,2021,1,Foot Locker,In-store,2800,935.0,337.313
+Men's Street Footwear,2021,1,Foot Locker,Online,5181,1140.997,452.884
+Men's Street Footwear,2021,1,Foot Locker,Outlet,1897,430.941,139.27700000000002
+Men's Street Footwear,2021,1,Kohl's,In-store,1275,486.25,218.188
+Men's Street Footwear,2021,1,Kohl's,Online,2472,354.332,134.87
+Men's Street Footwear,2021,1,Kohl's,Outlet,3253,1150.846,517.509
+Men's Street Footwear,2021,1,Sports Direct,In-store,1700,642.5,265.25
+Men's Street Footwear,2021,1,Sports Direct,Online,3735,828.18,327.063
+Men's Street Footwear,2021,1,Sports Direct,Outlet,1162,186.51,58.334
+Men's Street Footwear,2021,1,West Gear,In-store,3725,1281.25,512.875
+Men's Street Footwear,2021,1,West Gear,Online,3180,255.962,110.924
+Men's Street Footwear,2021,1,West Gear,Outlet,7386,3035.475,2000.036
+Men's Street Footwear,2021,2,Amazon,In-store,1175,558.75,236.438
+Men's Street Footwear,2021,2,Amazon,Online,2264,545.876,222.631
+Men's Street Footwear,2021,2,Amazon,Outlet,945,328.646,116.325
+Men's Street Footwear,2021,2,Foot Locker,In-store,3150,1050.0,378.438
+Men's Street Footwear,2021,2,Foot Locker,Online,5633,1243.33,492.382
+Men's Street Footwear,2021,2,Foot Locker,Outlet,2134,512.59,164.603
+Men's Street Footwear,2021,2,Kohl's,In-store,1375,523.75,234.313
+Men's Street Footwear,2021,2,Kohl's,Online,2935,399.43,153.367
+Men's Street Footwear,2021,2,Kohl's,Outlet,4451,1610.417,711.904
+Men's Street Footwear,2021,2,Sports Direct,In-store,1850,700.0,288.0
+Men's Street Footwear,2021,2,Sports Direct,Online,4075,895.434,353.479
+Men's Street Footwear,2021,2,Sports Direct,Outlet,1296,227.706,71.243
+Men's Street Footwear,2021,2,West Gear,In-store,4175,1431.25,571.0
+Men's Street Footwear,2021,2,West Gear,Online,2508,227.101,96.443
+Men's Street Footwear,2021,2,West Gear,Outlet,3257,1062.279,322.865
+Men's Street Footwear,2021,3,Amazon,In-store,1115,530.25,224.363
+Men's Street Footwear,2021,3,Amazon,Online,2137,500.075,204.27
+Men's Street Footwear,2021,3,Amazon,Outlet,918,313.557,111.459
+Men's Street Footwear,2021,3,Foot Locker,In-store,2555,874.75,312.313
+Men's Street Footwear,2021,3,Foot Locker,Online,5106,1179.859,465.563
+Men's Street Footwear,2021,3,Foot Locker,Outlet,1401,247.216,65.06
+Men's Street Footwear,2021,3,Kohl's,In-store,1315,501.25,224.638
+Men's Street Footwear,2021,3,Kohl's,Online,2440,403.374,149.644
+Men's Street Footwear,2021,3,Kohl's,Outlet,2916,864.916,361.867
+Men's Street Footwear,2021,3,Sports Direct,In-store,1760,665.5,274.35
+Men's Street Footwear,2021,3,Sports Direct,Online,3857,691.933,275.192
+Men's Street Footwear,2021,3,Sports Direct,Outlet,4522,938.142,332.458
+Men's Street Footwear,2021,3,Walmart,Online,826,132.258,53.327
+Men's Street Footwear,2021,3,Walmart,Outlet,206,3.09,1.452
+Men's Street Footwear,2021,3,West Gear,In-store,4545,1569.5,628.475
+Men's Street Footwear,2021,3,West Gear,Online,2001,158.99,69.165
+Men's Street Footwear,2021,3,West Gear,Outlet,732,16.302999999999997,7.123
+Men's Street Footwear,2021,4,Amazon,In-store,1075,511.25,216.313
+Men's Street Footwear,2021,4,Amazon,Online,1959,462.316,188.858
+Men's Street Footwear,2021,4,Amazon,Outlet,880,299.961,106.276
+Men's Street Footwear,2021,4,Foot Locker,In-store,2475,916.25,326.001
+Men's Street Footwear,2021,4,Foot Locker,Online,4059,993.378,397.309
+Men's Street Footwear,2021,4,Foot Locker,Outlet,1177,320.519,83.143
+Men's Street Footwear,2021,4,Kohl's,In-store,1275,486.25,218.188
+Men's Street Footwear,2021,4,Kohl's,Online,2651,492.074,183.175
+Men's Street Footwear,2021,4,Kohl's,Outlet,4685,1593.875,639.71
+Men's Street Footwear,2021,4,Sports Direct,In-store,1675,633.75,260.875
+Men's Street Footwear,2021,4,Sports Direct,Online,3852,728.962,294.585
+Men's Street Footwear,2021,4,Sports Direct,Outlet,5475,1483.272,647.307
+Men's Street Footwear,2021,4,Walmart,Online,912,162.558,65.755
+Men's Street Footwear,2021,4,Walmart,Outlet,925,369.413,111.887
+Men's Street Footwear,2021,4,West Gear,In-store,4375,1611.25,641.001
+Men's Street Footwear,2021,4,West Gear,Online,2735,310.202,1022.108
+Men's Street Footwear,2021,4,West Gear,Outlet,927,24.473,10.682
+Men's Street Footwear,2021,5,Amazon,In-store,1165,728.75,308.6
+Men's Street Footwear,2021,5,Amazon,Online,2165,663.07,270.761
+Men's Street Footwear,2021,5,Amazon,Outlet,943,388.208,137.96900000000002
+Men's Street Footwear,2021,5,Foot Locker,In-store,2680,1358.5,472.275
+Men's Street Footwear,2021,5,Foot Locker,Online,4825,1472.433,595.196
+Men's Street Footwear,2021,5,Foot Locker,Outlet,2934,852.665,298.217
+Men's Street Footwear,2021,5,Kohl's,In-store,1340,670.0,296.0
+Men's Street Footwear,2021,5,Kohl's,Online,2959,629.533,234.713
+Men's Street Footwear,2021,5,Kohl's,Outlet,5897,2199.791,883.241
+Men's Street Footwear,2021,5,Sports Direct,In-store,2330,1266.5,504.275
+Men's Street Footwear,2021,5,Sports Direct,Online,3077,771.385,318.611
+Men's Street Footwear,2021,5,Sports Direct,Outlet,3253,885.574,398.695
+Men's Street Footwear,2021,5,Walmart,Online,1006,284.049,114.878
+Men's Street Footwear,2021,5,Walmart,Outlet,1004,359.772,109.146
+Men's Street Footwear,2021,5,West Gear,In-store,4695,2426.5,952.325
+Men's Street Footwear,2021,5,West Gear,Online,3000,452.916,182.742
+Men's Street Footwear,2021,5,West Gear,Outlet,948,25.785,10.998
+Men's Street Footwear,2021,6,Amazon,In-store,1325,828.75,351.0
+Men's Street Footwear,2021,6,Amazon,Online,2220,657.056,268.478
+Men's Street Footwear,2021,6,Amazon,Outlet,1061,441.169,156.738
+Men's Street Footwear,2021,6,Foot Locker,In-store,3100,1452.5,509.688
+Men's Street Footwear,2021,6,Foot Locker,Online,6097,1599.781,656.602
+Men's Street Footwear,2021,6,Foot Locker,Outlet,6221,2708.038,1007.085
+Men's Street Footwear,2021,6,Kohl's,In-store,1450,725.0,317.5
+Men's Street Footwear,2021,6,Kohl's,Online,2025,649.266,233.368
+Men's Street Footwear,2021,6,Kohl's,Outlet,224,8.288,3.232
+Men's Street Footwear,2021,6,Sports Direct,In-store,2525,1313.75,529.25
+Men's Street Footwear,2021,6,Sports Direct,Online,2700,863.411,352.111
+Men's Street Footwear,2021,6,Sports Direct,Outlet,605,22.989,9.603
+Men's Street Footwear,2021,6,Walmart,Online,1101,290.911,117.775
+Men's Street Footwear,2021,6,Walmart,Outlet,1333,556.458,168.135
+Men's Street Footwear,2021,6,West Gear,In-store,4525,2088.75,821.188
+Men's Street Footwear,2021,6,West Gear,Online,4034,1156.115,455.023
+Men's Street Footwear,2021,6,West Gear,Outlet,1129,40.087,17.026
+Men's Street Footwear,2021,7,Amazon,In-store,1375,860.0,364.25
+Men's Street Footwear,2021,7,Amazon,Online,2480,942.61,384.123
+Men's Street Footwear,2021,7,Amazon,Outlet,1108,459.131,163.064
+Men's Street Footwear,2021,7,Foot Locker,In-store,3925,2218.75,790.938
+Men's Street Footwear,2021,7,Foot Locker,Online,6615,2048.846,844.783
+Men's Street Footwear,2021,7,Foot Locker,Outlet,6175,2852.617,1044.981
+Men's Street Footwear,2021,7,Kohl's,In-store,1500,750.0,328.125
+Men's Street Footwear,2021,7,Kohl's,Online,2226,823.774,295.263
+Men's Street Footwear,2021,7,Kohl's,Outlet,248,10.168,3.966
+Men's Street Footwear,2021,7,Sports Direct,In-store,2700,1502.5,608.25
+Men's Street Footwear,2021,7,Sports Direct,Online,2989,1110.363,451.671
+Men's Street Footwear,2021,7,Sports Direct,Outlet,593,22.916,9.594
+Men's Street Footwear,2021,7,Walmart,In-store,900,810.0,243.0
+Men's Street Footwear,2021,7,Walmart,Online,1269,459.563,185.857
+Men's Street Footwear,2021,7,Walmart,Outlet,568,30.765,11.912
+Men's Street Footwear,2021,7,West Gear,In-store,4350,2587.5,1002.25
+Men's Street Footwear,2021,7,West Gear,Online,4250,1691.884,688.94
+Men's Street Footwear,2021,7,West Gear,Outlet,1354,63.27,27.202
+Men's Street Footwear,2021,8,Amazon,In-store,650,390.0,175.5
+Men's Street Footwear,2021,8,Amazon,Online,2380,909.425,370.053
+Men's Street Footwear,2021,8,Amazon,Outlet,1743,880.024,332.462
+Men's Street Footwear,2021,8,Foot Locker,In-store,3225,1895.0,664.125
+Men's Street Footwear,2021,8,Foot Locker,Online,5095,1830.862,748.75
+Men's Street Footwear,2021,8,Foot Locker,Outlet,2131,979.448,296.402
+Men's Street Footwear,2021,8,Kohl's,In-store,1450,725.0,317.5
+Men's Street Footwear,2021,8,Kohl's,Online,2149,850.829,305.423
+Men's Street Footwear,2021,8,Kohl's,Outlet,224,8.96,3.315
+Men's Street Footwear,2021,8,Sports Direct,In-store,3100,1697.5,686.75
+Men's Street Footwear,2021,8,Sports Direct,Online,4911,1152.812,475.966
+Men's Street Footwear,2021,8,Sports Direct,Outlet,9127,1727.188,1416.259
+Men's Street Footwear,2021,8,Walmart,In-store,850,807.5,242.25
+Men's Street Footwear,2021,8,Walmart,Online,2213,987.121,398.337
+Men's Street Footwear,2021,8,Walmart,Outlet,744,37.855,15.474
+Men's Street Footwear,2021,8,West Gear,In-store,4050,2371.25,916.313
+Men's Street Footwear,2021,8,West Gear,Online,3063,1303.851,531.504
+Men's Street Footwear,2021,8,West Gear,Outlet,989,52.405,22.393
+Men's Street Footwear,2021,9,Amazon,In-store,525,315.0,141.75
+Men's Street Footwear,2021,9,Amazon,Online,2084,731.718,298.182
+Men's Street Footwear,2021,9,Amazon,Outlet,1447,716.469,270.628
+Men's Street Footwear,2021,9,Foot Locker,In-store,2475,1102.5,388.063
+Men's Street Footwear,2021,9,Foot Locker,Online,3340,1090.913,446.435
+Men's Street Footwear,2021,9,Foot Locker,Outlet,461,16.647,6.992
+Men's Street Footwear,2021,9,Kohl's,In-store,1275,637.5,283.125
+Men's Street Footwear,2021,9,Kohl's,Online,1835,618.93,222.282
+Men's Street Footwear,2021,9,Kohl's,Outlet,206,7.622,3.201
+Men's Street Footwear,2021,9,Sports Direct,In-store,2650,1285.0,515.75
+Men's Street Footwear,2021,9,Sports Direct,Online,5504,1289.774,535.7
+Men's Street Footwear,2021,9,Sports Direct,Outlet,10299,3071.1,1338.521
+Men's Street Footwear,2021,9,Walmart,In-store,500,300.0,90.0
+Men's Street Footwear,2021,9,Walmart,Online,2049,723.135,291.269
+Men's Street Footwear,2021,9,Walmart,Outlet,1158,381.335,99.307
+Men's Street Footwear,2021,9,West Gear,In-store,3450,1412.5,560.5
+Men's Street Footwear,2021,9,West Gear,Online,2329,562.842,231.468
+Men's Street Footwear,2021,9,West Gear,Outlet,748,22.945,9.816
+Men's Street Footwear,2021,10,Amazon,In-store,475,308.75,138.938
+Men's Street Footwear,2021,10,Amazon,Online,2383,593.501,243.887
+Men's Street Footwear,2021,10,Amazon,Outlet,3017,1313.688,460.771
+Men's Street Footwear,2021,10,Foot Locker,In-store,2125,995.0,348.438
+Men's Street Footwear,2021,10,Foot Locker,Online,3274,1047.395,432.135
+Men's Street Footwear,2021,10,Foot Locker,Outlet,2233,769.221,370.791
+Men's Street Footwear,2021,10,Kohl's,In-store,1200,660.0,294.938
+Men's Street Footwear,2021,10,Kohl's,Online,1681,453.532,164.009
+Men's Street Footwear,2021,10,Kohl's,Outlet,171,5.985,2.214
+Men's Street Footwear,2021,10,Sports Direct,In-store,2375,1291.25,520.0
+Men's Street Footwear,2021,10,Sports Direct,Online,3998,957.063,396.893
+Men's Street Footwear,2021,10,Sports Direct,Outlet,4568,1561.561,674.746
+Men's Street Footwear,2021,10,Walmart,In-store,400,200.0,60.0
+Men's Street Footwear,2021,10,Walmart,Online,1825,437.08,176.213
+Men's Street Footwear,2021,10,Walmart,Outlet,1011,275.674,71.419
+Men's Street Footwear,2021,10,West Gear,In-store,2925,1332.5,533.125
+Men's Street Footwear,2021,10,West Gear,Online,2001,340.187,141.359
+Men's Street Footwear,2021,10,West Gear,Outlet,617,14.835,6.572
+Men's Street Footwear,2021,11,Amazon,In-store,375,243.75,73.125
+Men's Street Footwear,2021,11,Amazon,Online,2171,505.159,206.517
+Men's Street Footwear,2021,11,Amazon,Outlet,2490,1431.88,501.16
+Men's Street Footwear,2021,11,Foot Locker,In-store,2700,1322.5,506.063
+Men's Street Footwear,2021,11,Foot Locker,Online,3926,947.704,404.668
+Men's Street Footwear,2021,11,Foot Locker,Outlet,4227,1778.411,899.05
+Men's Street Footwear,2021,11,Kohl's,In-store,1200,705.0,308.625
+Men's Street Footwear,2021,11,Kohl's,Online,1671,480.743,180.054
+Men's Street Footwear,2021,11,Kohl's,Outlet,342,10.928,4.561
+Men's Street Footwear,2021,11,Sports Direct,In-store,1425,787.5,326.25
+Men's Street Footwear,2021,11,Sports Direct,Online,4250,1357.48,539.405
+Men's Street Footwear,2021,11,Sports Direct,Outlet,687,20.441,8.895
+Men's Street Footwear,2021,11,Walmart,In-store,625,343.75,103.125
+Men's Street Footwear,2021,11,Walmart,Online,327,16.846,6.496
+Men's Street Footwear,2021,11,Walmart,Outlet,713,296.458,74.809
+Men's Street Footwear,2021,11,West Gear,In-store,3575,1755.0,692.063
+Men's Street Footwear,2021,11,West Gear,Online,2510,444.312,183.993
+Men's Street Footwear,2021,11,West Gear,Outlet,890,26.95,12.07
+Men's Street Footwear,2021,12,Amazon,In-store,1175,793.75,301.125
+Men's Street Footwear,2021,12,Amazon,Online,1955,689.65,282.207
+Men's Street Footwear,2021,12,Amazon,Outlet,2414,1313.006,460.713
+Men's Street Footwear,2021,12,Foot Locker,In-store,3575,2146.25,819.125
+Men's Street Footwear,2021,12,Foot Locker,Online,6409,2387.076,982.655
+Men's Street Footwear,2021,12,Foot Locker,Outlet,4662,2035.817,1017.039
+Men's Street Footwear,2021,12,Kohl's,In-store,1400,830.0,356.5
+Men's Street Footwear,2021,12,Kohl's,Online,2096,901.93,345.263
+Men's Street Footwear,2021,12,Kohl's,Outlet,438,21.472,9.018
+Men's Street Footwear,2021,12,Sports Direct,In-store,1900,1140.0,475.5
+Men's Street Footwear,2021,12,Sports Direct,Online,4245,1972.838,783.908
+Men's Street Footwear,2021,12,Sports Direct,Outlet,625,28.746,12.896
+Men's Street Footwear,2021,12,Walmart,In-store,800,600.0,180.0
+Men's Street Footwear,2021,12,Walmart,Online,405,28.404,11.362
+Men's Street Footwear,2021,12,Walmart,Outlet,980,541.24,137.096
+Men's Street Footwear,2021,12,West Gear,In-store,4000,2341.25,876.063
+Men's Street Footwear,2021,12,West Gear,Online,3014,1138.643,465.388
+Men's Street Footwear,2021,12,West Gear,Outlet,966,43.776,19.679
+Women's Apparel,2020,1,Foot Locker,In-store,1000,500.0,125.0
+Women's Apparel,2020,1,Foot Locker,Online,871,42.234,15.891
+Women's Apparel,2020,1,Foot Locker,Outlet,3311,1222.417,317.84
+Women's Apparel,2020,1,West Gear,Online,564,32.708,11.012
+Women's Apparel,2020,1,West Gear,Outlet,2743,1269.354,1270.903
+Women's Apparel,2020,2,Foot Locker,Online,238,11.662,4.315
+Women's Apparel,2020,2,Foot Locker,Outlet,1283,487.987,122.256
+Women's Apparel,2020,2,West Gear,In-store,1350,1057.5,194.625
+Women's Apparel,2020,2,West Gear,Online,540,40.798,13.847
+Women's Apparel,2020,2,West Gear,Outlet,1230,515.914,129.282
+Women's Apparel,2020,3,Foot Locker,Online,881,54.076,20.751
+Women's Apparel,2020,3,Foot Locker,Outlet,4169,2094.086,525.533
+Women's Apparel,2020,3,West Gear,In-store,2225,1362.5,204.376
+Women's Apparel,2020,3,West Gear,Online,621,35.564,9.336
+Women's Apparel,2020,3,West Gear,Outlet,452,24.142,4.848
+Women's Apparel,2020,4,Walmart,Online,860,54.22,20.755
+Women's Apparel,2020,4,Walmart,Outlet,4110,2098.04,526.645
+Women's Apparel,2020,4,West Gear,In-store,3925,2706.25,900.938
+Women's Apparel,2020,4,West Gear,Online,1100,72.571,33.812
+Women's Apparel,2020,5,Foot Locker,In-store,875,612.5,306.25
+Women's Apparel,2020,5,Foot Locker,Online,219,14.016,8.83
+Women's Apparel,2020,5,Walmart,Online,263,17.358,6.422
+Women's Apparel,2020,5,Walmart,Outlet,1297,699.566,175.403
+Women's Apparel,2020,5,West Gear,In-store,2700,1932.5,402.5
+Women's Apparel,2020,5,West Gear,Online,703,46.63,14.89
+Women's Apparel,2020,6,West Gear,In-store,2325,1811.25,362.25
+Women's Apparel,2020,6,West Gear,Online,623,46.243,15.321
+Women's Apparel,2020,7,Sports Direct,Online,399,13.566,8.615
+Women's Apparel,2020,7,Sports Direct,Outlet,1855,501.606,251.439
+Women's Apparel,2020,7,Walmart,Online,290,19.72,6.902
+Women's Apparel,2020,7,Walmart,Outlet,1340,716.32,179.896
+Women's Apparel,2020,7,West Gear,In-store,2350,1991.25,398.25
+Women's Apparel,2020,7,West Gear,Online,615,49.254000000000005,16.59
+Women's Apparel,2020,8,Foot Locker,In-store,2475,1113.75,556.875
+Women's Apparel,2020,8,Foot Locker,Online,693,28.638,18.217
+Women's Apparel,2020,8,Sports Direct,Online,189,7.371,4.423
+Women's Apparel,2020,8,Sports Direct,Outlet,878,266.612,133.637
+Women's Apparel,2020,8,Walmart,Online,1051,44.781,28.149
+Women's Apparel,2020,8,Walmart,Outlet,4944,1728.456,866.404
+Women's Apparel,2020,8,West Gear,In-store,575,546.25,109.25
+Women's Apparel,2020,8,West Gear,Online,150,12.9,4.386
+Women's Apparel,2020,9,Foot Locker,In-store,925,555.0,277.5
+Women's Apparel,2020,9,Foot Locker,Online,278,15.568,9.496
+Women's Apparel,2020,9,Sports Direct,In-store,825,495.0,247.5
+Women's Apparel,2020,9,Sports Direct,Online,223,12.265,7.727
+Women's Apparel,2020,9,Walmart,Online,648,32.13,20.445
+Women's Apparel,2020,9,Walmart,Outlet,3301,1363.065,683.23
+Women's Apparel,2020,9,West Gear,In-store,1900,1330.0,665.0
+Women's Apparel,2020,9,West Gear,Online,503,32.665,21.232
+Women's Apparel,2020,10,Foot Locker,In-store,475,166.25,74.813
+Women's Apparel,2020,10,Foot Locker,Online,130,4.29,2.381
+Women's Apparel,2020,10,Sports Direct,In-store,1675,1131.25,565.625
+Women's Apparel,2020,10,Sports Direct,Online,436,26.789,16.731
+Women's Apparel,2020,10,Walmart,Online,508,26.43,16.386
+Women's Apparel,2020,10,Walmart,Outlet,2345,987.762,495.398
+Women's Apparel,2020,11,Foot Locker,In-store,525,245.0,110.25
+Women's Apparel,2020,11,Foot Locker,Online,330,16.237000000000002,990.205
+Women's Apparel,2020,11,Foot Locker,Outlet,700,385.0,173.251
+Women's Apparel,2020,11,West Gear,Online,415,19.789,5.198
+Women's Apparel,2020,11,West Gear,Outlet,1918,752.818,113.911
+Women's Apparel,2020,12,Foot Locker,Online,338,16.773,9.756
+Women's Apparel,2020,12,Foot Locker,Outlet,1225,642.5,289.125
+Women's Apparel,2020,12,West Gear,Online,413,25.956,7.008
+Women's Apparel,2020,12,West Gear,Outlet,1890,1005.235,151.895
+Women's Apparel,2021,1,Amazon,In-store,650,308.75,115.375
+Women's Apparel,2021,1,Amazon,Online,1399,342.775,159.771
+Women's Apparel,2021,1,Amazon,Outlet,505,172.071,52.434
+Women's Apparel,2021,1,Foot Locker,In-store,1850,650.0,248.875
+Women's Apparel,2021,1,Foot Locker,Online,3348,813.98,1132.879
+Women's Apparel,2021,1,Foot Locker,Outlet,1323,374.637,1012.867
+Women's Apparel,2021,1,Kohl's,In-store,875,336.25,98.5
+Women's Apparel,2021,1,Kohl's,Online,1858,344.859,101.423
+Women's Apparel,2021,1,Kohl's,Outlet,2360,1057.999,1013.115
+Women's Apparel,2021,1,Sports Direct,In-store,1100,412.5,177.875
+Women's Apparel,2021,1,Sports Direct,Online,2820,674.845,273.226
+Women's Apparel,2021,1,Sports Direct,Outlet,1049,251.247,846.151
+Women's Apparel,2021,1,West Gear,In-store,2825,1058.75,438.5
+Women's Apparel,2021,1,West Gear,Online,2909,368.75,153.246
+Women's Apparel,2021,1,West Gear,Outlet,5952,3119.202,516.318
+Women's Apparel,2021,2,Amazon,In-store,700,333.75,124.125
+Women's Apparel,2021,2,Amazon,Online,1356,305.656,141.053
+Women's Apparel,2021,2,Amazon,Outlet,581,200.709,61.296
+Women's Apparel,2021,2,Foot Locker,In-store,1525,496.25,197.5
+Women's Apparel,2021,2,Foot Locker,Online,3549,1788.345,881.5830000000001
+Women's Apparel,2021,2,Foot Locker,Outlet,945,173.095,2015.805
+Women's Apparel,2021,2,Kohl's,In-store,875,336.25,98.5
+Women's Apparel,2021,2,Kohl's,Online,1810,296.286,950.782
+Women's Apparel,2021,2,Kohl's,Outlet,2465,1399.9,350.122
+Women's Apparel,2021,2,Sports Direct,In-store,1100,412.5,177.875
+Women's Apparel,2021,2,Sports Direct,Online,2125,455.606,992.56
+Women's Apparel,2021,2,Sports Direct,Outlet,831,213.232,862.349
+Women's Apparel,2021,2,Walmart,Online,540,87.185,35.18
+Women's Apparel,2021,2,Walmart,Outlet,145,2.32,974.0
+Women's Apparel,2021,2,West Gear,In-store,2925,967.5,398.188
+Women's Apparel,2021,2,West Gear,Online,1865,1046.222,3060.565
+Women's Apparel,2021,2,West Gear,Outlet,3501,1641.126,1848.838
+Women's Apparel,2021,3,Amazon,In-store,575,273.75,102.0
+Women's Apparel,2021,3,Amazon,Online,1145,271.785,124.744
+Women's Apparel,2021,3,Amazon,Outlet,470,157.598,48.01
+Women's Apparel,2021,3,Foot Locker,In-store,1350,493.75,194.75
+Women's Apparel,2021,3,Foot Locker,Online,2615,645.159,1874.677
+Women's Apparel,2021,3,Foot Locker,Outlet,728,190.041,713.102
+Women's Apparel,2021,3,Kohl's,In-store,775,298.75,86.5
+Women's Apparel,2021,3,Kohl's,Online,1635,312.478,1811.727
+Women's Apparel,2021,3,Kohl's,Outlet,2874,1211.01,272.669
+Women's Apparel,2021,3,Sports Direct,In-store,925,346.25,150.438
+Women's Apparel,2021,3,Sports Direct,Online,2267,467.984,1964.681
+Women's Apparel,2021,3,Sports Direct,Outlet,2629,742.05,2105.557
+Women's Apparel,2021,3,Walmart,Online,452,89.948,36.248
+Women's Apparel,2021,3,Walmart,Outlet,112,2.24,1.03
+Women's Apparel,2021,3,West Gear,In-store,2625,958.75,392.375
+Women's Apparel,2021,3,West Gear,Online,1570,239.022,3231.809
+Women's Apparel,2021,3,West Gear,Outlet,551,14.385,734.749
+Women's Apparel,2021,4,Amazon,In-store,625,297.5,110.875
+Women's Apparel,2021,4,Amazon,Online,1259,303.692,142.158
+Women's Apparel,2021,4,Amazon,Outlet,491,156.573,47.659
+Women's Apparel,2021,4,Foot Locker,In-store,1400,615.0,237.0
+Women's Apparel,2021,4,Foot Locker,Online,2756,834.997,1207.396
+Women's Apparel,2021,4,Foot Locker,Outlet,733,241.963,781.869
+Women's Apparel,2021,4,Kohl's,In-store,800,307.5,90.0
+Women's Apparel,2021,4,Kohl's,Online,2020,442.233,125.863
+Women's Apparel,2021,4,Kohl's,Outlet,4552,2108.054,423.776
+Women's Apparel,2021,4,Sports Direct,In-store,1300,542.5,232.0
+Women's Apparel,2021,4,Sports Direct,Online,2694,552.883,224.239
+Women's Apparel,2021,4,Sports Direct,Outlet,5352,1798.153,1031.9
+Women's Apparel,2021,4,Walmart,Online,625,131.096,54.365
+Women's Apparel,2021,4,Walmart,Outlet,608,290.571,131.05100000000002
+Women's Apparel,2021,4,West Gear,In-store,2675,1257.5,503.0
+Women's Apparel,2021,4,West Gear,Online,1843,301.266,873.951
+Women's Apparel,2021,4,West Gear,Outlet,636,18.417,8.045
+Women's Apparel,2021,5,Amazon,In-store,825,557.5,208.125
+Women's Apparel,2021,5,Amazon,Online,1386,486.937,228.69
+Women's Apparel,2021,5,Amazon,Outlet,660,292.08,89.106
+Women's Apparel,2021,5,Foot Locker,In-store,1850,1032.5,399.0
+Women's Apparel,2021,5,Foot Locker,Online,3153,1209.378,526.405
+Women's Apparel,2021,5,Foot Locker,Outlet,1235,457.562,190.781
+Women's Apparel,2021,5,Kohl's,In-store,950,522.5,159.5
+Women's Apparel,2021,5,Kohl's,Online,2156,546.504,160.847
+Women's Apparel,2021,5,Kohl's,Outlet,4653,2284.938,459.506
+Women's Apparel,2021,5,Sports Direct,In-store,1525,902.5,382.0
+Women's Apparel,2021,5,Sports Direct,Online,2537,742.413,311.085
+Women's Apparel,2021,5,Sports Direct,Outlet,3731,1475.264,882.491
+Women's Apparel,2021,5,Walmart,Online,709,207.725,85.909
+Women's Apparel,2021,5,Walmart,Outlet,893,415.589,187.277
+Women's Apparel,2021,5,West Gear,In-store,2775,1560.0,637.375
+Women's Apparel,2021,5,West Gear,Online,2944,932.927,397.183
+Women's Apparel,2021,5,West Gear,Outlet,835,31.99,14.554
+Women's Apparel,2021,6,Amazon,In-store,925,625.0,233.375
+Women's Apparel,2021,6,Amazon,Online,1728,721.35,340.857
+Women's Apparel,2021,6,Amazon,Outlet,770,330.842,101.386
+Women's Apparel,2021,6,Foot Locker,In-store,2650,1777.5,644.625
+Women's Apparel,2021,6,Foot Locker,Online,4548,1729.033,2438.792
+Women's Apparel,2021,6,Foot Locker,Outlet,3602,1754.996,808.735
+Women's Apparel,2021,6,Kohl's,In-store,1050,577.5,177.375
+Women's Apparel,2021,6,Kohl's,Online,1612,752.924,220.657
+Women's Apparel,2021,6,Kohl's,Outlet,192,9.6,2.688
+Women's Apparel,2021,6,Sports Direct,In-store,1800,1097.5,469.563
+Women's Apparel,2021,6,Sports Direct,Online,2265,1032.65,416.833
+Women's Apparel,2021,6,Sports Direct,Outlet,438,20.702,7.143
+Women's Apparel,2021,6,Walmart,In-store,750,825.0,371.25
+Women's Apparel,2021,6,Walmart,Online,928,361.094,149.24
+Women's Apparel,2021,6,Walmart,Outlet,413,26.272,12.031
+Women's Apparel,2021,6,West Gear,In-store,3075,2122.5,849.25
+Women's Apparel,2021,6,West Gear,Online,3424,1697.048,698.957
+Women's Apparel,2021,6,West Gear,Outlet,1060,58.406,24.78
+Women's Apparel,2021,7,Amazon,In-store,500,325.0,130.0
+Women's Apparel,2021,7,Amazon,Online,1838,784.592,370.404
+Women's Apparel,2021,7,Amazon,Outlet,1363,733.736,240.719
+Women's Apparel,2021,7,Foot Locker,In-store,2425,1603.75,603.25
+Women's Apparel,2021,7,Foot Locker,Online,4910,1847.463,1684.4009999999998
+Women's Apparel,2021,7,Foot Locker,Outlet,4281,2175.554,1029.649
+Women's Apparel,2021,7,Kohl's,In-store,1150,632.5,195.25
+Women's Apparel,2021,7,Kohl's,Online,1607,735.13,222.635
+Women's Apparel,2021,7,Kohl's,Outlet,160,7.84,2.509
+Women's Apparel,2021,7,Sports Direct,In-store,2350,1410.0,575.688
+Women's Apparel,2021,7,Sports Direct,Online,2437,1010.281,424.576
+Women's Apparel,2021,7,Sports Direct,Outlet,441,19.499,6.364
+Women's Apparel,2021,7,Walmart,In-store,650,715.0,321.75
+Women's Apparel,2021,7,Walmart,Online,1764,865.399,396.411
+Women's Apparel,2021,7,Walmart,Outlet,602,34.766,16.856
+Women's Apparel,2021,7,West Gear,In-store,3200,2152.5,876.25
+Women's Apparel,2021,7,West Gear,Online,2302,1133.476,427.572
+Women's Apparel,2021,7,West Gear,Outlet,779,46.623,19.514
+Women's Apparel,2021,8,Amazon,In-store,400,260.0,104.0
+Women's Apparel,2021,8,Amazon,Online,1678,660.342,308.722
+Women's Apparel,2021,8,Amazon,Outlet,1106,590.154,193.166
+Women's Apparel,2021,8,Foot Locker,In-store,1775,975.0,390.25
+Women's Apparel,2021,8,Foot Locker,Online,2764,1072.928,454.659
+Women's Apparel,2021,8,Foot Locker,Outlet,857,371.836,183.722
+Women's Apparel,2021,8,Kohl's,In-store,1025,563.75,169.813
+Women's Apparel,2021,8,Kohl's,Online,1440,615.348,184.261
+Women's Apparel,2021,8,Kohl's,Outlet,153,7.65,2.448
+Women's Apparel,2021,8,Sports Direct,In-store,2025,1115.0,449.375
+Women's Apparel,2021,8,Sports Direct,Online,4211,1324.516,619.299
+Women's Apparel,2021,8,Sports Direct,Outlet,6004,1488.887,803.061
+Women's Apparel,2021,8,Walmart,In-store,300,255.0,114.75
+Women's Apparel,2021,8,Walmart,Online,1662,675.74,309.86
+Women's Apparel,2021,8,Walmart,Outlet,845,284.632,116.209
+Women's Apparel,2021,8,West Gear,In-store,2625,1425.0,613.125
+Women's Apparel,2021,8,West Gear,Online,1740,521.439,204.992
+Women's Apparel,2021,8,West Gear,Outlet,540,20.964,9.462
+Women's Apparel,2021,9,Amazon,In-store,300,195.0,78.0
+Women's Apparel,2021,9,Amazon,Online,1356,386.237,179.601
+Women's Apparel,2021,9,Amazon,Outlet,1047,582.197,200.589
+Women's Apparel,2021,9,Foot Locker,In-store,1325,597.5,238.25
+Women's Apparel,2021,9,Foot Locker,Online,2234,844.902,348.182
+Women's Apparel,2021,9,Foot Locker,Outlet,279,11.039,988.997
+Women's Apparel,2021,9,Kohl's,In-store,850,467.5,137.5
+Women's Apparel,2021,9,Kohl's,Online,1274,429.521,121.028
+Women's Apparel,2021,9,Kohl's,Outlet,157,7.536,2.261
+Women's Apparel,2021,9,Sports Direct,In-store,1500,798.75,329.875
+Women's Apparel,2021,9,Sports Direct,Online,4813,1046.309,494.984
+Women's Apparel,2021,9,Sports Direct,Outlet,10161,3891.181,2247.366
+Women's Apparel,2021,9,Walmart,In-store,300,165.0,74.25
+Women's Apparel,2021,9,Walmart,Online,1354,319.816,148.163
+Women's Apparel,2021,9,Walmart,Outlet,774,236.398,95.661
+Women's Apparel,2021,9,West Gear,In-store,2000,877.5,387.25
+Women's Apparel,2021,9,West Gear,Online,1360,252.674,1086.06
+Women's Apparel,2021,9,West Gear,Outlet,426,10.873,982.72
+Women's Apparel,2021,10,Amazon,In-store,225,157.5,47.25
+Women's Apparel,2021,10,Amazon,Online,1415,392.107,1170.082
+Women's Apparel,2021,10,Amazon,Outlet,1268,660.968,242.214
+Women's Apparel,2021,10,Foot Locker,In-store,1725,960.0,354.375
+Women's Apparel,2021,10,Foot Locker,Online,2415,803.296,340.304
+Women's Apparel,2021,10,Foot Locker,Outlet,995,362.963,883.29
+Women's Apparel,2021,10,Kohl's,In-store,900,570.0,174.0
+Women's Apparel,2021,10,Kohl's,Online,1124,401.693,119.162
+Women's Apparel,2021,10,Kohl's,Outlet,232,9.689,3.359
+Women's Apparel,2021,10,Sports Direct,In-store,975,581.25,275.813
+Women's Apparel,2021,10,Sports Direct,Online,4316,1247.192,577.632
+Women's Apparel,2021,10,Sports Direct,Outlet,5922,2620.694,1535.31
+Women's Apparel,2021,10,Walmart,In-store,400,280.0,126.0
+Women's Apparel,2021,10,Walmart,Online,179,11.56,6.369
+Women's Apparel,2021,10,Walmart,Outlet,440,217.42,87.858
+Women's Apparel,2021,10,West Gear,In-store,2450,1368.75,581.125
+Women's Apparel,2021,10,West Gear,Online,1679,384.12,148.589
+Women's Apparel,2021,10,West Gear,Outlet,625,22.203000000000003,9.644
+Women's Apparel,2021,11,Amazon,In-store,725,526.25,186.0
+Women's Apparel,2021,11,Amazon,Online,1318,508.154,255.454
+Women's Apparel,2021,11,Amazon,Outlet,1701,938.2,345.495
+Women's Apparel,2021,11,Foot Locker,In-store,2175,1473.75,538.625
+Women's Apparel,2021,11,Foot Locker,Online,3366,1424.581,2243.894
+Women's Apparel,2021,11,Foot Locker,Outlet,2484,1039.594,2488.5
+Women's Apparel,2021,11,Kohl's,In-store,950,607.5,191.25
+Women's Apparel,2021,11,Kohl's,Online,1379,689.017,220.864
+Women's Apparel,2021,11,Kohl's,Outlet,298,17.2,6.158
+Women's Apparel,2021,11,Sports Direct,In-store,1225,796.25,379.438
+Women's Apparel,2021,11,Sports Direct,Online,3657,1906.868,880.356
+Women's Apparel,2021,11,Sports Direct,Outlet,602,29.502,14.495
+Women's Apparel,2021,11,Walmart,In-store,600,540.0,243.0
+Women's Apparel,2021,11,Walmart,Online,302,25.412,14.19
+Women's Apparel,2021,11,Walmart,Outlet,698,463.068,186.534
+Women's Apparel,2021,11,West Gear,In-store,2575,1698.75,701.25
+Women's Apparel,2021,11,West Gear,Online,2017,912.66,347.906
+Women's Apparel,2021,11,West Gear,Outlet,638,32.95,14.221
+Women's Apparel,2021,12,Amazon,In-store,825,598.75,211.5
+Women's Apparel,2021,12,Amazon,Online,1497,627.906,316.603
+Women's Apparel,2021,12,Amazon,Outlet,1273,645.228,258.243
+Women's Apparel,2021,12,Foot Locker,In-store,2675,1751.25,678.0
+Women's Apparel,2021,12,Foot Locker,Online,4511,2021.74,794.439
+Women's Apparel,2021,12,Foot Locker,Outlet,3192,1403.846,1425.986
+Women's Apparel,2021,12,Kohl's,In-store,1100,770.0,355.25
+Women's Apparel,2021,12,Kohl's,Online,1438,625.497,214.114
+Women's Apparel,2021,12,Kohl's,Outlet,263,12.332999999999998,4.432
+Women's Apparel,2021,12,Sports Direct,In-store,1275,943.75,328.625
+Women's Apparel,2021,12,Sports Direct,Online,3331,1752.207,759.155
+Women's Apparel,2021,12,Sports Direct,Outlet,1177,535.883,214.062
+Women's Apparel,2021,12,West Gear,In-store,3225,2231.25,918.313
+Women's Apparel,2021,12,West Gear,Online,2307,952.933,441.165
+Women's Apparel,2021,12,West Gear,Outlet,741,38.135,16.675
+Women's Athletic Footwear,2020,1,Foot Locker,In-store,850,382.5,133.875
+Women's Athletic Footwear,2020,1,Foot Locker,Online,669,28.479,13.743
+Women's Athletic Footwear,2020,1,Foot Locker,Outlet,2394,756.742,265.673
+Women's Athletic Footwear,2020,1,West Gear,Online,410,20.752,9.944
+Women's Athletic Footwear,2020,1,West Gear,Outlet,1938,801.708,290.923
+Women's Athletic Footwear,2020,2,Foot Locker,Online,469,20.379,9.88
+Women's Athletic Footwear,2020,2,Foot Locker,Outlet,2253,814.746,285.818
+Women's Athletic Footwear,2020,2,West Gear,In-store,1675,1028.75,337.563
+Women's Athletic Footwear,2020,2,West Gear,Online,569,32.975,15.405
+Women's Athletic Footwear,2020,2,West Gear,Outlet,1105,285.088,114.008
+Women's Athletic Footwear,2020,3,Foot Locker,Online,745,34.772,15.986
+Women's Athletic Footwear,2020,3,Foot Locker,Outlet,3616,1396.196,489.845
+Women's Athletic Footwear,2020,3,West Gear,In-store,1725,910.0,273.0
+Women's Athletic Footwear,2020,3,West Gear,Online,475,23.547,10.187
+Women's Athletic Footwear,2020,3,West Gear,Outlet,394,14.812,853.377
+Women's Athletic Footwear,2020,4,Walmart,Online,504,24.444,11.622
+Women's Athletic Footwear,2020,4,Walmart,Outlet,2376,966.474,338.904
+Women's Athletic Footwear,2020,4,West Gear,In-store,3325,1891.25,701.875
+Women's Athletic Footwear,2020,4,West Gear,Online,920,49.501,25.213
+Women's Athletic Footwear,2020,5,Sports Direct,In-store,775,426.25,127.875
+Women's Athletic Footwear,2020,5,Sports Direct,Online,209,11.286,4.853
+Women's Athletic Footwear,2020,5,Walmart,Online,225,12.15,5.589
+Women's Athletic Footwear,2020,5,Walmart,Outlet,1206,507.546,178.268
+Women's Athletic Footwear,2020,5,West Gear,In-store,1925,1173.75,403.313
+Women's Athletic Footwear,2020,5,West Gear,Online,504,29.062,13.356
+Women's Athletic Footwear,2020,6,West Gear,In-store,1725,1121.25,336.375
+Women's Athletic Footwear,2020,6,West Gear,Online,477,29.251,12.204
+Women's Athletic Footwear,2020,7,Sports Direct,Online,350,11.9,6.843
+Women's Athletic Footwear,2020,7,Sports Direct,Outlet,1748,474.958,214.405
+Women's Athletic Footwear,2020,7,West Gear,In-store,2300,1656.25,496.875
+Women's Athletic Footwear,2020,7,West Gear,Online,619,43.417,18.402
+Women's Athletic Footwear,2020,8,Foot Locker,In-store,1325,530.0,159.0
+Women's Athletic Footwear,2020,8,Foot Locker,Online,350,12.95,5.18
+Women's Athletic Footwear,2020,8,Sports Direct,Online,337,12.306,7.196
+Women's Athletic Footwear,2020,8,Sports Direct,Outlet,1642,502.084,226.301
+Women's Athletic Footwear,2020,8,Walmart,Online,602,22.645,13.208
+Women's Athletic Footwear,2020,8,Walmart,Outlet,2882,880.705,397.416
+Women's Athletic Footwear,2020,8,West Gear,In-store,1225,710.0,213.0
+Women's Athletic Footwear,2020,8,West Gear,Online,307,16.91,7.336
+Women's Athletic Footwear,2020,9,Foot Locker,In-store,775,348.75,104.625
+Women's Athletic Footwear,2020,9,Foot Locker,Online,233,10.252,4.101
+Women's Athletic Footwear,2020,9,Sports Direct,In-store,725,326.25,97.875
+Women's Athletic Footwear,2020,9,Sports Direct,Online,210,8.82,3.793
+Women's Athletic Footwear,2020,9,Walmart,Online,538,23.249,13.301
+Women's Athletic Footwear,2020,9,Walmart,Outlet,2494,893.694,402.873
+Women's Athletic Footwear,2020,9,West Gear,In-store,1550,813.75,244.125
+Women's Athletic Footwear,2020,9,West Gear,Online,450,22.548,9.39
+Women's Athletic Footwear,2020,10,Foot Locker,In-store,175,52.5,18.375
+Women's Athletic Footwear,2020,10,Foot Locker,Online,46,1294.0,593.0
+Women's Athletic Footwear,2020,10,Sports Direct,In-store,1475,737.5,221.25
+Women's Athletic Footwear,2020,10,Sports Direct,Online,384,18.088,7.959
+Women's Athletic Footwear,2020,10,Walmart,Online,385,18.298,10.32
+Women's Athletic Footwear,2020,10,Walmart,Outlet,1815,703.34,317.446
+Women's Athletic Footwear,2020,11,Foot Locker,In-store,100,37.5,13.126
+Women's Athletic Footwear,2020,11,Foot Locker,Online,123,919.378,2060.0
+Women's Athletic Footwear,2020,11,Foot Locker,Outlet,325,122.5,42.875
+Women's Athletic Footwear,2020,11,West Gear,Online,325,15.45,6.321
+Women's Athletic Footwear,2020,11,West Gear,Outlet,1609,615.075,185.278
+Women's Athletic Footwear,2020,12,Foot Locker,Online,193,1421.417,2250.056
+Women's Athletic Footwear,2020,12,Foot Locker,Outlet,700,257.5,90.127
+Women's Athletic Footwear,2020,12,Kohl's,Online,98,4.312,2.242
+Women's Athletic Footwear,2020,12,Kohl's,Outlet,325,146.25,58.5
+Women's Athletic Footwear,2020,12,West Gear,Online,362,20.244,8.501999999999999
+Women's Athletic Footwear,2020,12,West Gear,Outlet,1617,753.816,226.701
+Women's Athletic Footwear,2021,1,Amazon,In-store,350,148.75,48.125
+Women's Athletic Footwear,2021,1,Amazon,Online,830,188.689,2419.855
+Women's Athletic Footwear,2021,1,Amazon,Outlet,113,3.697,1290.0
+Women's Athletic Footwear,2021,1,Foot Locker,In-store,900,280.0,104.375
+Women's Athletic Footwear,2021,1,Foot Locker,Online,2814,2441.487,5894.4400000000005
+Women's Athletic Footwear,2021,1,Foot Locker,Outlet,913,766.114,1760.705
+Women's Athletic Footwear,2021,1,Kohl's,In-store,575,195.0,70.125
+Women's Athletic Footwear,2021,1,Kohl's,Online,1279,214.197,1112.465
+Women's Athletic Footwear,2021,1,Kohl's,Outlet,1846,705.4,729.6510000000001
+Women's Athletic Footwear,2021,1,Sports Direct,In-store,650,207.5,66.5
+Women's Athletic Footwear,2021,1,Sports Direct,Online,1920,2215.793,2306.783
+Women's Athletic Footwear,2021,1,Sports Direct,Outlet,645,969.454,922.614
+Women's Athletic Footwear,2021,1,West Gear,In-store,1675,572.5,200.25
+Women's Athletic Footwear,2021,1,West Gear,Online,1827,786.666,4099.541
+Women's Athletic Footwear,2021,1,West Gear,Outlet,5366,3257.307,1896.344
+Women's Athletic Footwear,2021,2,Amazon,In-store,350,150.0,48.0
+Women's Athletic Footwear,2021,2,Amazon,Online,784,166.645,2313.012
+Women's Athletic Footwear,2021,2,Amazon,Outlet,291,91.048,1285.875
+Women's Athletic Footwear,2021,2,Foot Locker,In-store,725,228.75,85.625
+Women's Athletic Footwear,2021,2,Foot Locker,Online,2372,2354.649,3606.408
+Women's Athletic Footwear,2021,2,Foot Locker,Outlet,587,429.804,2505.628
+Women's Athletic Footwear,2021,2,Kohl's,In-store,525,178.75,64.063
+Women's Athletic Footwear,2021,2,Kohl's,Online,1134,1888.658,905.782
+Women's Athletic Footwear,2021,2,Kohl's,Outlet,1741,722.639,1264.0
+Women's Athletic Footwear,2021,2,Sports Direct,In-store,750,243.75,74.375
+Women's Athletic Footwear,2021,2,Sports Direct,Online,1395,1173.532,1816.198
+Women's Athletic Footwear,2021,2,Sports Direct,Outlet,563,1081.309,1000.558
+Women's Athletic Footwear,2021,2,Walmart,Online,320,51.26,650.0
+Women's Athletic Footwear,2021,2,Walmart,Outlet,78,1.17,550.0
+Women's Athletic Footwear,2021,2,West Gear,In-store,1650,575.0,202.5
+Women's Athletic Footwear,2021,2,West Gear,Online,1301,1864.135,3101.057
+Women's Athletic Footwear,2021,2,West Gear,Outlet,3144,2086.295,2091.197
+Women's Athletic Footwear,2021,3,Amazon,In-store,275,117.5,37.75
+Women's Athletic Footwear,2021,3,Amazon,Online,662,1100.406,2596.723
+Women's Athletic Footwear,2021,3,Amazon,Outlet,209,65.155,1032.625
+Women's Athletic Footwear,2021,3,Foot Locker,In-store,700,251.25,92.75
+Women's Athletic Footwear,2021,3,Foot Locker,Online,2175,2884.039,2885.965
+Women's Athletic Footwear,2021,3,Foot Locker,Outlet,626,320.985,1645.338
+Women's Athletic Footwear,2021,3,Kohl's,In-store,475,162.5,58.0
+Women's Athletic Footwear,2021,3,Kohl's,Online,1346,1322.992,637.3820000000001
+Women's Athletic Footwear,2021,3,Kohl's,Outlet,3150,1136.684,417.956
+Women's Athletic Footwear,2021,3,Sports Direct,In-store,725,237.5,70.875
+Women's Athletic Footwear,2021,3,Sports Direct,Online,1774,1803.699,753.539
+Women's Athletic Footwear,2021,3,Sports Direct,Outlet,2699,1678.571,1268.811
+Women's Athletic Footwear,2021,3,Walmart,Online,260,41.14,609.0
+Women's Athletic Footwear,2021,3,Walmart,Outlet,70,1.05,494.0
+Women's Athletic Footwear,2021,3,West Gear,In-store,1625,610.0,218.0
+Women's Athletic Footwear,2021,3,West Gear,Online,594,1791.325,2315.534
+Women's Athletic Footwear,2021,3,West Gear,Outlet,285,632.553,925.857
+Women's Athletic Footwear,2021,4,Amazon,In-store,325,138.75,44.625
+Women's Athletic Footwear,2021,4,Amazon,Online,718,141.974,3104.224
+Women's Athletic Footwear,2021,4,Amazon,Outlet,253,78.355,1212.75
+Women's Athletic Footwear,2021,4,Foot Locker,In-store,725,233.75,86.938
+Women's Athletic Footwear,2021,4,Foot Locker,Online,1841,1886.445,2897.771
+Women's Athletic Footwear,2021,4,Foot Locker,Outlet,509,488.832,1767.498
+Women's Athletic Footwear,2021,4,Kohl's,In-store,525,178.75,64.063
+Women's Athletic Footwear,2021,4,Kohl's,Online,1363,1621.491,755.429
+Women's Athletic Footwear,2021,4,Kohl's,Outlet,3234,1085.604,380.911
+Women's Athletic Footwear,2021,4,Sports Direct,In-store,625,218.75,70.001
+Women's Athletic Footwear,2021,4,Sports Direct,Online,1973,848.687,1344.422
+Women's Athletic Footwear,2021,4,Sports Direct,Outlet,3622,1989.374,1172.676
+Women's Athletic Footwear,2021,4,Walmart,Online,372,50.628,687.966
+Women's Athletic Footwear,2021,4,Walmart,Outlet,467,169.691,520.792
+Women's Athletic Footwear,2021,4,West Gear,In-store,1625,536.25,188.313
+Women's Athletic Footwear,2021,4,West Gear,Online,1143,2333.676,2405.297
+Women's Athletic Footwear,2021,4,West Gear,Outlet,399,713.207,1659.243
+Women's Athletic Footwear,2021,5,Amazon,In-store,525,276.25,89.125
+Women's Athletic Footwear,2021,5,Amazon,Online,919,236.481,874.861
+Women's Athletic Footwear,2021,5,Amazon,Outlet,424,144.551,36.972
+Women's Athletic Footwear,2021,5,Foot Locker,In-store,1025,421.25,157.25
+Women's Athletic Footwear,2021,5,Foot Locker,Online,2239,1580.478,2586.526
+Women's Athletic Footwear,2021,5,Foot Locker,Outlet,768,705.343,907.502
+Women's Athletic Footwear,2021,5,Kohl's,In-store,650,260.0,95.0
+Women's Athletic Footwear,2021,5,Kohl's,Online,1792,319.235,1046.137
+Women's Athletic Footwear,2021,5,Kohl's,Outlet,4485,1692.482,594.666
+Women's Athletic Footwear,2021,5,Sports Direct,In-store,950,422.5,132.938
+Women's Athletic Footwear,2021,5,Sports Direct,Online,1783,1367.2949999999998,1398.102
+Women's Athletic Footwear,2021,5,Sports Direct,Outlet,2106,766.862,1719.058
+Women's Athletic Footwear,2021,5,Walmart,Online,466,112.844,45.639
+Women's Athletic Footwear,2021,5,Walmart,Outlet,522,201.333,60.934
+Women's Athletic Footwear,2021,5,West Gear,In-store,2000,826.25,288.313
+Women's Athletic Footwear,2021,5,West Gear,Online,1451,281.261,3823.016
+Women's Athletic Footwear,2021,5,West Gear,Outlet,518,13.865,1580.5030000000002
+Women's Athletic Footwear,2021,6,Amazon,In-store,625,328.75,106.125
+Women's Athletic Footwear,2021,6,Amazon,Online,1163,332.1,962.107
+Women's Athletic Footwear,2021,6,Amazon,Outlet,506,172.724,44.108
+Women's Athletic Footwear,2021,6,Foot Locker,In-store,1700,826.25,302.125
+Women's Athletic Footwear,2021,6,Foot Locker,Online,3014,2768.488,6562.189
+Women's Athletic Footwear,2021,6,Foot Locker,Outlet,1849,701.957,1572.439
+Women's Athletic Footwear,2021,6,Kohl's,In-store,750,300.0,110.0
+Women's Athletic Footwear,2021,6,Kohl's,Online,1091,360.369,128.126
+Women's Athletic Footwear,2021,6,Kohl's,Outlet,128,4.736,1.894
+Women's Athletic Footwear,2021,6,Sports Direct,In-store,1200,513.75,160.876
+Women's Athletic Footwear,2021,6,Sports Direct,Online,1693,553.459,1775.8939999999998
+Women's Athletic Footwear,2021,6,Sports Direct,Outlet,289,9.779,687.914
+Women's Athletic Footwear,2021,6,Walmart,In-store,575,488.75,146.625
+Women's Athletic Footwear,2021,6,Walmart,Online,628,165.561,66.899
+Women's Athletic Footwear,2021,6,Walmart,Outlet,320,16.532,6.367999999999999
+Women's Athletic Footwear,2021,6,West Gear,In-store,2125,980.0,335.25
+Women's Athletic Footwear,2021,6,West Gear,Online,2388,932.661,1480.184
+Women's Athletic Footwear,2021,6,West Gear,Outlet,784,32.799,752.007
+Women's Athletic Footwear,2021,7,Amazon,In-store,300,150.0,52.5
+Women's Athletic Footwear,2021,7,Amazon,Online,1215,401.607,162.574
+Women's Athletic Footwear,2021,7,Amazon,Outlet,828,351.379,97.788
+Women's Athletic Footwear,2021,7,Foot Locker,In-store,1600,865.0,315.625
+Women's Athletic Footwear,2021,7,Foot Locker,Online,2626,2356.914,6473.448
+Women's Athletic Footwear,2021,7,Foot Locker,Outlet,2260,948.083,1174.651
+Women's Athletic Footwear,2021,7,Kohl's,In-store,750,300.0,110.0
+Women's Athletic Footwear,2021,7,Kohl's,Online,1173,401.133,142.711
+Women's Athletic Footwear,2021,7,Kohl's,Outlet,149,5.811,2.441
+Women's Athletic Footwear,2021,7,Sports Direct,In-store,1350,617.5,196.313
+Women's Athletic Footwear,2021,7,Sports Direct,Online,1823,617.078,2760.707
+Women's Athletic Footwear,2021,7,Sports Direct,Outlet,299,10.806,841.397
+Women's Athletic Footwear,2021,7,Walmart,In-store,600,540.0,162.0
+Women's Athletic Footwear,2021,7,Walmart,Online,1295,442.968,179.07
+Women's Athletic Footwear,2021,7,Walmart,Outlet,449,19.893,7.455999999999999
+Women's Athletic Footwear,2021,7,West Gear,In-store,2175,1176.25,404.563
+Women's Athletic Footwear,2021,7,West Gear,Online,2447,1004.939,2213.641
+Women's Athletic Footwear,2021,7,West Gear,Outlet,762,34.611,977.755
+Women's Athletic Footwear,2021,8,Amazon,In-store,250,125.0,43.75
+Women's Athletic Footwear,2021,8,Amazon,Online,1216,356.186,143.779
+Women's Athletic Footwear,2021,8,Amazon,Outlet,698,295.846,82.361
+Women's Athletic Footwear,2021,8,Foot Locker,In-store,1350,631.25,229.625
+Women's Athletic Footwear,2021,8,Foot Locker,Online,2984,940.614,2879.693
+Women's Athletic Footwear,2021,8,Foot Locker,Outlet,1365,573.941,760.74
+Women's Athletic Footwear,2021,8,Kohl's,In-store,725,290.0,105.5
+Women's Athletic Footwear,2021,8,Kohl's,Online,1207,423.653,1104.816
+Women's Athletic Footwear,2021,8,Kohl's,Outlet,152,6.992,2.587
+Women's Athletic Footwear,2021,8,Sports Direct,In-store,1275,503.75,159.376
+Women's Athletic Footwear,2021,8,Sports Direct,Online,2762,609.364,2579.775
+Women's Athletic Footwear,2021,8,Sports Direct,Outlet,4490,1171.718,1825.618
+Women's Athletic Footwear,2021,8,Walmart,In-store,475,380.0,114.0
+Women's Athletic Footwear,2021,8,Walmart,Online,1250,370.059,149.249
+Women's Athletic Footwear,2021,8,Walmart,Outlet,426,17.939999999999998,6.804
+Women's Athletic Footwear,2021,8,West Gear,In-store,2050,901.25,307.75
+Women's Athletic Footwear,2021,8,West Gear,Online,1568,521.961,1088.806
+Women's Athletic Footwear,2021,8,West Gear,Outlet,506,19.553,823.621
+Women's Athletic Footwear,2021,9,Amazon,In-store,200,100.0,35.0
+Women's Athletic Footwear,2021,9,Amazon,Online,981,195.048,958.869
+Women's Athletic Footwear,2021,9,Amazon,Outlet,565,239.094,989.748
+Women's Athletic Footwear,2021,9,Foot Locker,In-store,925,308.75,114.75
+Women's Athletic Footwear,2021,9,Foot Locker,Online,1849,1396.504,2274.713
+Women's Athletic Footwear,2021,9,Foot Locker,Outlet,226,966.682,444.55
+Women's Athletic Footwear,2021,9,Kohl's,In-store,650,260.0,94.0
+Women's Athletic Footwear,2021,9,Kohl's,Online,1011,1168.813,1264.535
+Women's Athletic Footwear,2021,9,Kohl's,Outlet,145,5.365,2.2
+Women's Athletic Footwear,2021,9,Sports Direct,In-store,1025,386.25,123.376
+Women's Athletic Footwear,2021,9,Sports Direct,Online,3467,1583.093,2677.249
+Women's Athletic Footwear,2021,9,Sports Direct,Outlet,6934,2240.768,2136.63
+Women's Athletic Footwear,2021,9,Walmart,In-store,250,150.0,45.0
+Women's Athletic Footwear,2021,9,Walmart,Online,1063,140.662,697.197
+Women's Athletic Footwear,2021,9,Walmart,Outlet,627,217.85,1442.083
+Women's Athletic Footwear,2021,9,West Gear,In-store,1550,493.75,163.875
+Women's Athletic Footwear,2021,9,West Gear,Online,1037,3690.516,2456.96
+Women's Athletic Footwear,2021,9,West Gear,Outlet,336,1778.076,1766.142
+Women's Athletic Footwear,2021,10,Amazon,In-store,175,105.0,36.75
+Women's Athletic Footwear,2021,10,Amazon,Online,878,2212.778,3211.87
+Women's Athletic Footwear,2021,10,Amazon,Outlet,566,984.056,313.538
+Women's Athletic Footwear,2021,10,Foot Locker,In-store,1000,417.5,153.438
+Women's Athletic Footwear,2021,10,Foot Locker,Online,1732,1739.125,3668.023
+Women's Athletic Footwear,2021,10,Foot Locker,Outlet,627,2189.829,1796.556
+Women's Athletic Footwear,2021,10,Kohl's,In-store,600,276.25,99.813
+Women's Athletic Footwear,2021,10,Kohl's,Online,817,1113.737,1280.885
+Women's Athletic Footwear,2021,10,Kohl's,Outlet,112,3.92,1.646
+Women's Athletic Footwear,2021,10,Sports Direct,In-store,775,347.5,109.5
+Women's Athletic Footwear,2021,10,Sports Direct,Online,2642,575.418,2075.7560000000003
+Women's Athletic Footwear,2021,10,Sports Direct,Outlet,4215,1772.0,1968.571
+Women's Athletic Footwear,2021,10,Walmart,In-store,375,206.25,61.875
+Women's Athletic Footwear,2021,10,Walmart,Online,998,156.196,787.107
+Women's Athletic Footwear,2021,10,Walmart,Outlet,598,159.64,1655.493
+Women's Athletic Footwear,2021,10,West Gear,In-store,1550,608.75,204.188
+Women's Athletic Footwear,2021,10,West Gear,Online,1144,1144.799,3219.092
+Women's Athletic Footwear,2021,10,West Gear,Outlet,390,938.818,956.112
+Women's Athletic Footwear,2021,11,Amazon,In-store,575,331.25,100.813
+Women's Athletic Footwear,2021,11,Amazon,Online,1076,1047.611,2629.825
+Women's Athletic Footwear,2021,11,Amazon,Outlet,1204,538.768,152.208
+Women's Athletic Footwear,2021,11,Foot Locker,In-store,1700,755.0,263.75
+Women's Athletic Footwear,2021,11,Foot Locker,Online,2718,2068.827,3247.154
+Women's Athletic Footwear,2021,11,Foot Locker,Outlet,1482,1633.042,1191.03
+Women's Athletic Footwear,2021,11,Kohl's,In-store,800,390.0,144.75
+Women's Athletic Footwear,2021,11,Kohl's,Online,1134,440.179,165.339
+Women's Athletic Footwear,2021,11,Kohl's,Outlet,226,8.77,3.795
+Women's Athletic Footwear,2021,11,Sports Direct,In-store,925,438.75,164.813
+Women's Athletic Footwear,2021,11,Sports Direct,Online,2948,1270.056,1363.696
+Women's Athletic Footwear,2021,11,Sports Direct,Outlet,519,21.001,9.913
+Women's Athletic Footwear,2021,11,Walmart,In-store,500,325.0,97.5
+Women's Athletic Footwear,2021,11,Walmart,Online,254,15.84,6.562
+Women's Athletic Footwear,2021,11,Walmart,Outlet,570,267.99,67.717
+Women's Athletic Footwear,2021,11,West Gear,In-store,2100,855.0,281.188
+Women's Athletic Footwear,2021,11,West Gear,Online,1697,490.14,1886.566
+Women's Athletic Footwear,2021,11,West Gear,Outlet,556,19.119,788.544
+Women's Athletic Footwear,2021,12,Amazon,In-store,625,360.0,109.5
+Women's Athletic Footwear,2021,12,Amazon,Online,1164,430.419,1709.462
+Women's Athletic Footwear,2021,12,Amazon,Outlet,706,253.959,76.63
+Women's Athletic Footwear,2021,12,Foot Locker,In-store,2075,1045.0,362.125
+Women's Athletic Footwear,2021,12,Foot Locker,Online,3594,1398.385,1215.71
+Women's Athletic Footwear,2021,12,Foot Locker,Outlet,2168,719.996,2424.445
+Women's Athletic Footwear,2021,12,Kohl's,In-store,900,495.0,166.375
+Women's Athletic Footwear,2021,12,Kohl's,Online,1212,409.95,156.142
+Women's Athletic Footwear,2021,12,Kohl's,Outlet,242,9.226,3.988
+Women's Athletic Footwear,2021,12,Sports Direct,In-store,1050,635.0,234.75
+Women's Athletic Footwear,2021,12,Sports Direct,Online,2925,1207.445,414.821
+Women's Athletic Footwear,2021,12,Sports Direct,Outlet,1056,424.657,110.263
+Women's Athletic Footwear,2021,12,West Gear,In-store,2675,1495.0,499.5
+Women's Athletic Footwear,2021,12,West Gear,Online,1936,637.396,258.604
+Women's Athletic Footwear,2021,12,West Gear,Outlet,629,28.529,10.973
+Women's Street Footwear,2020,1,Foot Locker,In-store,1000,400.0,140.0
+Women's Street Footwear,2020,1,Foot Locker,Online,773,28.569,13.53
+Women's Street Footwear,2020,1,Foot Locker,Outlet,2887,790.014,277.548
+Women's Street Footwear,2020,1,West Gear,Online,576,29.712,16.088
+Women's Street Footwear,2020,1,West Gear,Outlet,2735,1160.742,478.9
+Women's Street Footwear,2020,2,Foot Locker,Online,513,21.834,10.557
+Women's Street Footwear,2020,2,Foot Locker,Outlet,2403,829.188,291.207
+Women's Street Footwear,2020,2,West Gear,In-store,1900,1193.75,452.75
+Women's Street Footwear,2020,2,West Gear,Online,686,40.628,21.385
+Women's Street Footwear,2020,2,West Gear,Outlet,1333,393.444,176.633
+Women's Street Footwear,2020,3,Foot Locker,Online,782,35.715,16.571
+Women's Street Footwear,2020,3,Foot Locker,Outlet,3730,1445.395,507.501
+Women's Street Footwear,2020,3,West Gear,In-store,2150,1100.0,385.0
+Women's Street Footwear,2020,3,West Gear,Online,579,27.926,13.281
+Women's Street Footwear,2020,3,West Gear,Outlet,434,17.29,7.262
+Women's Street Footwear,2020,4,Walmart,Online,526,26.012,12.36
+Women's Street Footwear,2020,4,Walmart,Outlet,2454,992.482,348.708
+Women's Street Footwear,2020,4,West Gear,In-store,3925,2277.5,905.626
+Women's Street Footwear,2020,4,West Gear,Online,1056,57.975,30.321
+Women's Street Footwear,2020,5,Sports Direct,In-store,825,453.75,113.438
+Women's Street Footwear,2020,5,Sports Direct,Online,248,12.896,4.772
+Women's Street Footwear,2020,5,Walmart,Online,285,15.39,7.233
+Women's Street Footwear,2020,5,Walmart,Outlet,1283,536.486,188.469
+Women's Street Footwear,2020,5,West Gear,In-store,2175,1268.75,473.75
+Women's Street Footwear,2020,5,West Gear,Online,603,32.22,15.75
+Women's Street Footwear,2020,6,West Gear,In-store,2300,1561.25,390.313
+Women's Street Footwear,2020,6,West Gear,Online,640,40.57,15.701
+Women's Street Footwear,2020,7,Sports Direct,Online,386,12.562,5.722
+Women's Street Footwear,2020,7,Sports Direct,Outlet,1849,494.048,173.55700000000002
+Women's Street Footwear,2020,7,West Gear,In-store,2550,1825.0,456.251
+Women's Street Footwear,2020,7,West Gear,Online,710,47.078,16.846
+Women's Street Footwear,2020,8,Foot Locker,In-store,2425,848.75,212.188
+Women's Street Footwear,2020,8,Foot Locker,Online,687,22.444,8.398
+Women's Street Footwear,2020,8,Sports Direct,Online,385,12.726,6.029
+Women's Street Footwear,2020,8,Sports Direct,Outlet,1881,509.47,178.787
+Women's Street Footwear,2020,8,Walmart,Online,776,27.812,13.081
+Women's Street Footwear,2020,8,Walmart,Outlet,3553,1054.744,370.278
+Women's Street Footwear,2020,8,West Gear,In-store,550,440.0,110.0
+Women's Street Footwear,2020,8,West Gear,Online,138,10.074,3.929
+Women's Street Footwear,2020,9,Sports Direct,In-store,750,337.5,84.375
+Women's Street Footwear,2020,9,Sports Direct,Online,225,9.225,3.413
+Women's Street Footwear,2020,9,Walmart,Online,719,31.371,14.843
+Women's Street Footwear,2020,9,Walmart,Outlet,3694,1297.131,455.186
+Women's Street Footwear,2020,9,West Gear,In-store,2450,1307.5,326.876
+Women's Street Footwear,2020,9,West Gear,Online,654,33.185,12.075
+Women's Street Footwear,2020,10,Foot Locker,In-store,625,165.0,49.5
+Women's Street Footwear,2020,10,Foot Locker,Online,172,4.449,1945.0
+Women's Street Footwear,2020,10,Sports Direct,In-store,1470,735.0,183.75
+Women's Street Footwear,2020,10,Sports Direct,Online,427,19.845,7.532999999999999
+Women's Street Footwear,2020,10,Walmart,Online,461,21.667,10.52
+Women's Street Footwear,2020,10,Walmart,Outlet,2254,858.378,301.154
+Women's Street Footwear,2020,11,Foot Locker,In-store,225,80.0,24.0
+Women's Street Footwear,2020,11,Foot Locker,Online,242,761.741,2603.006
+Women's Street Footwear,2020,11,Foot Locker,Outlet,625,241.25,72.375
+Women's Street Footwear,2020,11,West Gear,Online,616,30.751,14.446000000000002
+Women's Street Footwear,2020,11,West Gear,Outlet,2928,1198.693,421.452
+Women's Street Footwear,2020,12,Foot Locker,Online,160,1787.832,1278.01
+Women's Street Footwear,2020,12,Foot Locker,Outlet,620,231.75,69.525
+Women's Street Footwear,2020,12,Kohl's,Online,119,4.879,2.879
+Women's Street Footwear,2020,12,Kohl's,Outlet,475,213.75,96.188
+Women's Street Footwear,2020,12,West Gear,Online,210,13.44,6.72
+Women's Street Footwear,2020,12,West Gear,Outlet,979,482.934,169.49499999999998
+Women's Street Footwear,2021,1,Amazon,In-store,650,243.75,78.813
+Women's Street Footwear,2021,1,Amazon,Online,1289,245.848,99.451
+Women's Street Footwear,2021,1,Amazon,Outlet,202,5.555,2.109
+Women's Street Footwear,2021,1,Foot Locker,In-store,1800,485.0,174.938
+Women's Street Footwear,2021,1,Foot Locker,Online,3941,788.465,3340.601
+Women's Street Footwear,2021,1,Foot Locker,Outlet,1417,322.816,1591.978
+Women's Street Footwear,2021,1,Kohl's,In-store,875,248.75,90.5
+Women's Street Footwear,2021,1,Kohl's,Online,1937,307.924,1586.094
+Women's Street Footwear,2021,1,Kohl's,Outlet,2523,1018.916,1014.585
+Women's Street Footwear,2021,1,Sports Direct,In-store,1100,302.5,87.0
+Women's Street Footwear,2021,1,Sports Direct,Online,2841,523.765,2477.377
+Women's Street Footwear,2021,1,Sports Direct,Outlet,956,223.338,1223.646
+Women's Street Footwear,2021,1,West Gear,In-store,2725,818.75,274.063
+Women's Street Footwear,2021,1,West Gear,Online,2439,149.157,3233.37
+Women's Street Footwear,2021,1,West Gear,Outlet,6182,2745.657,1539.803
+Women's Street Footwear,2021,2,Amazon,In-store,575,216.25,69.688
+Women's Street Footwear,2021,2,Amazon,Online,1237,220.974,1056.307
+Women's Street Footwear,2021,2,Amazon,Outlet,456,128.851,881.9499999999999
+Women's Street Footwear,2021,2,Foot Locker,In-store,1375,381.25,137.75
+Women's Street Footwear,2021,2,Foot Locker,Online,3460,729.715,3901.176
+Women's Street Footwear,2021,2,Foot Locker,Outlet,1286,1261.171,1137.4
+Women's Street Footwear,2021,2,Kohl's,In-store,775,221.25,80.25
+Women's Street Footwear,2021,2,Kohl's,Online,1746,274.393,1388.34
+Women's Street Footwear,2021,2,Kohl's,Outlet,2547,2044.62,860.348
+Women's Street Footwear,2021,2,Sports Direct,In-store,950,260.0,75.0
+Women's Street Footwear,2021,2,Sports Direct,Online,2547,468.561,3206.097
+Women's Street Footwear,2021,2,Sports Direct,Outlet,921,221.926,1181.168
+Women's Street Footwear,2021,2,West Gear,In-store,2700,830.0,281.001
+Women's Street Footwear,2021,2,West Gear,Online,1792,103.352,3358.51
+Women's Street Footwear,2021,2,West Gear,Outlet,3470,1253.764,930.692
+Women's Street Footwear,2021,3,Amazon,In-store,575,216.25,69.688
+Women's Street Footwear,2021,3,Amazon,Online,1143,195.759,79.054
+Women's Street Footwear,2021,3,Amazon,Outlet,465,129.065,775.08
+Women's Street Footwear,2021,3,Foot Locker,In-store,1375,428.75,155.25
+Women's Street Footwear,2021,3,Foot Locker,Online,3219,1238.7,2674.596
+Women's Street Footwear,2021,3,Foot Locker,Outlet,933,1190.415,1211.056
+Women's Street Footwear,2021,3,Kohl's,In-store,775,221.25,80.25
+Women's Street Footwear,2021,3,Kohl's,Online,1705,959.132,1166.417
+Women's Street Footwear,2021,3,Kohl's,Outlet,3285,1152.92,472.488
+Women's Street Footwear,2021,3,Sports Direct,In-store,925,253.75,73.125
+Women's Street Footwear,2021,3,Sports Direct,Online,2443,394.248,2024.559
+Women's Street Footwear,2021,3,Sports Direct,Outlet,3234,850.616,1289.527
+Women's Street Footwear,2021,3,Walmart,Online,438,915.0,489.0
+Women's Street Footwear,2021,3,Walmart,Outlet,112,896.0,403.0
+Women's Street Footwear,2021,3,West Gear,In-store,2725,886.25,304.189
+Women's Street Footwear,2021,3,West Gear,Online,1107,1301.086,2674.632
+Women's Street Footwear,2021,3,West Gear,Outlet,455,592.512,1138.851
+Women's Street Footwear,2021,4,Amazon,In-store,475,178.75,57.563
+Women's Street Footwear,2021,4,Amazon,Online,954,166.414,67.426
+Women's Street Footwear,2021,4,Amazon,Outlet,379,105.18,1509.313
+Women's Street Footwear,2021,4,Foot Locker,In-store,1125,366.25,132.25
+Women's Street Footwear,2021,4,Foot Locker,Online,2387,1882.079,3744.222
+Women's Street Footwear,2021,4,Foot Locker,Outlet,755,942.704,970.515
+Women's Street Footwear,2021,4,Kohl's,In-store,675,193.75,70.0
+Women's Street Footwear,2021,4,Kohl's,Online,1731,1157.564,1150.775
+Women's Street Footwear,2021,4,Kohl's,Outlet,3809,1425.303,571.817
+Women's Street Footwear,2021,4,Sports Direct,In-store,800,240.0,69.75
+Women's Street Footwear,2021,4,Sports Direct,Online,2690,1186.198,1597.949
+Women's Street Footwear,2021,4,Sports Direct,Outlet,5323,1660.854,1537.17
+Women's Street Footwear,2021,4,Walmart,Online,495,53.97,567.247
+Women's Street Footwear,2021,4,Walmart,Outlet,628,287.524,582.199
+Women's Street Footwear,2021,4,West Gear,In-store,2275,760.0,259.689
+Women's Street Footwear,2021,4,West Gear,Online,1540,3014.779,2808.509
+Women's Street Footwear,2021,4,West Gear,Outlet,573,714.306,766.352
+Women's Street Footwear,2021,5,Amazon,In-store,625,328.75,106.125
+Women's Street Footwear,2021,5,Amazon,Online,1133,290.906,117.561
+Women's Street Footwear,2021,5,Amazon,Outlet,497,172.794,44.006
+Women's Street Footwear,2021,5,Foot Locker,In-store,1350,567.5,205.875
+Women's Street Footwear,2021,5,Foot Locker,Online,2800,816.76,3110.362
+Women's Street Footwear,2021,5,Foot Locker,Outlet,1286,341.307,1450.32
+Women's Street Footwear,2021,5,Kohl's,In-store,750,300.0,110.0
+Women's Street Footwear,2021,5,Kohl's,Online,2052,419.56,156.392
+Women's Street Footwear,2021,5,Kohl's,Outlet,4689,1770.756,710.225
+Women's Street Footwear,2021,5,Sports Direct,In-store,1150,508.75,147.563
+Women's Street Footwear,2021,5,Sports Direct,Online,2187,534.948,1935.117
+Women's Street Footwear,2021,5,Sports Direct,Outlet,2698,991.685,1979.634
+Women's Street Footwear,2021,5,Walmart,Online,560,132.615,53.861
+Women's Street Footwear,2021,5,Walmart,Outlet,676,285.535,86.475
+Women's Street Footwear,2021,5,West Gear,In-store,2475,1051.25,352.188
+Women's Street Footwear,2021,5,West Gear,Online,1774,274.17,2382.467
+Women's Street Footwear,2021,5,West Gear,Outlet,636,17.432,1790.215
+Women's Street Footwear,2021,6,Amazon,In-store,675,355.0,114.625
+Women's Street Footwear,2021,6,Amazon,Online,1198,351.128,1003.067
+Women's Street Footwear,2021,6,Amazon,Outlet,538,187.077,47.795
+Women's Street Footwear,2021,6,Foot Locker,In-store,1950,970.0,348.813
+Women's Street Footwear,2021,6,Foot Locker,Online,3701,2453.952,7837.16
+Women's Street Footwear,2021,6,Foot Locker,Outlet,3055,1120.396,2221.514
+Women's Street Footwear,2021,6,Kohl's,In-store,800,320.0,117.5
+Women's Street Footwear,2021,6,Kohl's,Online,1280,468.643,166.532
+Women's Street Footwear,2021,6,Kohl's,Outlet,193,7.913,3.165
+Women's Street Footwear,2021,6,Sports Direct,In-store,1300,555.0,160.875
+Women's Street Footwear,2021,6,Sports Direct,Online,1864,655.365,897.058
+Women's Street Footwear,2021,6,Sports Direct,Outlet,329,12.222,840.451
+Women's Street Footwear,2021,6,Walmart,In-store,700,595.0,178.5
+Women's Street Footwear,2021,6,Walmart,Online,714,180.752,73.358
+Women's Street Footwear,2021,6,Walmart,Outlet,362,17.752,6.274
+Women's Street Footwear,2021,6,West Gear,In-store,2375,1120.0,364.75
+Women's Street Footwear,2021,6,West Gear,Online,2727,1082.593,1578.87
+Women's Street Footwear,2021,6,West Gear,Outlet,839,33.451,629.216
+Women's Street Footwear,2021,7,Amazon,In-store,350,175.0,61.25
+Women's Street Footwear,2021,7,Amazon,Online,1401,453.495,182.886
+Women's Street Footwear,2021,7,Amazon,Outlet,962,407.083,113.036
+Women's Street Footwear,2021,7,Foot Locker,In-store,1900,1060.0,379.375
+Women's Street Footwear,2021,7,Foot Locker,Online,3131,2463.477,4658.832
+Women's Street Footwear,2021,7,Foot Locker,Outlet,2738,1189.625,1313.263
+Women's Street Footwear,2021,7,Kohl's,In-store,850,340.0,125.0
+Women's Street Footwear,2021,7,Kohl's,Online,1392,509.723,181.326
+Women's Street Footwear,2021,7,Kohl's,Outlet,171,6.669,2.468
+Women's Street Footwear,2021,7,Sports Direct,In-store,1600,727.5,216.063
+Women's Street Footwear,2021,7,Sports Direct,Online,2033,723.82,1150.106
+Women's Street Footwear,2021,7,Sports Direct,Outlet,383,13.579,849.187
+Women's Street Footwear,2021,7,Walmart,In-store,700,665.0,199.5
+Women's Street Footwear,2021,7,Walmart,Online,1432,493.488,199.323
+Women's Street Footwear,2021,7,Walmart,Outlet,546,27.832,10.408
+Women's Street Footwear,2021,7,West Gear,In-store,2525,1401.25,459.689
+Women's Street Footwear,2021,7,West Gear,Online,3228,1365.037,1548.381
+Women's Street Footwear,2021,7,West Gear,Outlet,997,45.834,19.928
+Women's Street Footwear,2021,8,Amazon,In-store,350,175.0,61.25
+Women's Street Footwear,2021,8,Amazon,Online,1392,453.088,182.868
+Women's Street Footwear,2021,8,Amazon,Outlet,954,407.101,113.08
+Women's Street Footwear,2021,8,Foot Locker,In-store,1875,942.5,338.25
+Women's Street Footwear,2021,8,Foot Locker,Online,3920,1327.932,1381.43
+Women's Street Footwear,2021,8,Foot Locker,Outlet,1803,674.001,195.624
+Women's Street Footwear,2021,8,Kohl's,In-store,850,340.0,125.0
+Women's Street Footwear,2021,8,Kohl's,Online,1337,511.239,181.63
+Women's Street Footwear,2021,8,Kohl's,Outlet,163,7.498,2.999
+Women's Street Footwear,2021,8,Sports Direct,In-store,1600,698.75,207.438
+Women's Street Footwear,2021,8,Sports Direct,Online,3255,741.844,2225.473
+Women's Street Footwear,2021,8,Sports Direct,Outlet,5866,1222.086,2005.72
+Women's Street Footwear,2021,8,Walmart,In-store,700,560.0,168.0
+Women's Street Footwear,2021,8,Walmart,Online,1437,515.22,208.087
+Women's Street Footwear,2021,8,Walmart,Outlet,545,26.345,10.016
+Women's Street Footwear,2021,8,West Gear,In-store,2475,1233.75,398.938
+Women's Street Footwear,2021,8,West Gear,Online,2072,764.728,2156.366
+Women's Street Footwear,2021,8,West Gear,Outlet,703,29.528,12.365
+Women's Street Footwear,2021,9,Amazon,In-store,225,112.5,39.375
+Women's Street Footwear,2021,9,Amazon,Online,1093,212.245,85.969
+Women's Street Footwear,2021,9,Amazon,Outlet,625,267.484,74.505
+Women's Street Footwear,2021,9,Foot Locker,In-store,1075,365.0,133.125
+Women's Street Footwear,2021,9,Foot Locker,Online,1990,566.42,2526.969
+Women's Street Footwear,2021,9,Foot Locker,Outlet,262,8.713,488.885
+Women's Street Footwear,2021,9,Kohl's,In-store,700,280.0,101.5
+Women's Street Footwear,2021,9,Kohl's,Online,1131,289.898,631.7909999999999
+Women's Street Footwear,2021,9,Kohl's,Outlet,147,5.733,2.408
+Women's Street Footwear,2021,9,Sports Direct,In-store,1150,435.0,129.625
+Women's Street Footwear,2021,9,Sports Direct,Online,4677,922.609,2257.545
+Women's Street Footwear,2021,9,Sports Direct,Outlet,10579,3694.22,2724.142
+Women's Street Footwear,2021,9,Walmart,In-store,300,180.0,54.0
+Women's Street Footwear,2021,9,Walmart,Online,1166,151.839,701.613
+Women's Street Footwear,2021,9,Walmart,Outlet,739,251.022,699.196
+Women's Street Footwear,2021,9,West Gear,In-store,1725,551.25,169.438
+Women's Street Footwear,2021,9,West Gear,Online,1187,1977.752,2864.878
+Women's Street Footwear,2021,9,West Gear,Outlet,375,742.209,770.685
+Women's Street Footwear,2021,10,Amazon,In-store,200,120.0,42.0
+Women's Street Footwear,2021,10,Amazon,Online,1059,223.553,3585.787
+Women's Street Footwear,2021,10,Amazon,Outlet,1099,382.049,1912.938
+Women's Street Footwear,2021,10,Foot Locker,In-store,1050,450.0,162.875
+Women's Street Footwear,2021,10,Foot Locker,Online,1903,548.404,4662.954
+Women's Street Footwear,2021,10,Foot Locker,Outlet,1046,285.768,2082.252
+Women's Street Footwear,2021,10,Kohl's,In-store,650,300.0,108.75
+Women's Street Footwear,2021,10,Kohl's,Online,907,240.862,1586.409
+Women's Street Footwear,2021,10,Kohl's,Outlet,120,4.08,1.632
+Women's Street Footwear,2021,10,Sports Direct,In-store,975,445.0,132.563
+Women's Street Footwear,2021,10,Sports Direct,Online,2934,667.679,2131.106
+Women's Street Footwear,2021,10,Sports Direct,Outlet,4696,1924.858,2123.394
+Women's Street Footwear,2021,10,Walmart,In-store,400,240.0,72.0
+Women's Street Footwear,2021,10,Walmart,Online,1050,168.616,808.001
+Women's Street Footwear,2021,10,Walmart,Outlet,647,189.368,776.943
+Women's Street Footwear,2021,10,West Gear,In-store,1625,655.0,203.875
+Women's Street Footwear,2021,10,West Gear,Online,1211,246.251,3301.672
+Women's Street Footwear,2021,10,West Gear,Outlet,401,10.463,918.393
+Women's Street Footwear,2021,11,Amazon,In-store,295,162.25,40.563
+Women's Street Footwear,2021,11,Amazon,Online,1281,281.603,755.867
+Women's Street Footwear,2021,11,Amazon,Outlet,1356,634.254,222.101
+Women's Street Footwear,2021,11,Foot Locker,In-store,1725,716.0,243.751
+Women's Street Footwear,2021,11,Foot Locker,Online,2466,587.121,4274.36
+Women's Street Footwear,2021,11,Foot Locker,Outlet,1992,685.52,3296.324
+Women's Street Footwear,2021,11,Kohl's,In-store,840,410.0,152.3
+Women's Street Footwear,2021,11,Kohl's,Online,1118,349.874,1046.38
+Women's Street Footwear,2021,11,Kohl's,Outlet,230,8.393,664.536
+Women's Street Footwear,2021,11,Sports Direct,In-store,935,445.25,158.075
+Women's Street Footwear,2021,11,Sports Direct,Online,3062,1076.311,414.184
+Women's Street Footwear,2021,11,Sports Direct,Outlet,542,19.609,8.198
+Women's Street Footwear,2021,11,Walmart,In-store,525,288.75,86.625
+Women's Street Footwear,2021,11,Walmart,Online,270,13.941,5.654
+Women's Street Footwear,2021,11,Walmart,Outlet,598,241.362,61.254000000000005
+Women's Street Footwear,2021,11,West Gear,In-store,2420,1004.5,316.188
+Women's Street Footwear,2021,11,West Gear,Online,1743,323.199,2735.703
+Women's Street Footwear,2021,11,West Gear,Outlet,621,17.732,1467.959
+Women's Street Footwear,2021,12,Amazon,In-store,725,417.5,126.875
+Women's Street Footwear,2021,12,Amazon,Online,1328,466.085,1045.147
+Women's Street Footwear,2021,12,Amazon,Outlet,868,316.046,125.895
+Women's Street Footwear,2021,12,Foot Locker,In-store,1975,977.5,311.25
+Women's Street Footwear,2021,12,Foot Locker,Online,3952,1561.557,2263.667
+Women's Street Footwear,2021,12,Foot Locker,Outlet,2498,838.147,1618.003
+Women's Street Footwear,2021,12,Kohl's,In-store,1000,550.0,168.438
+Women's Street Footwear,2021,12,Kohl's,Online,1296,441.02,168.504
+Women's Street Footwear,2021,12,Kohl's,Outlet,267,10.524,4.545999999999999
+Women's Street Footwear,2021,12,Sports Direct,In-store,1150,685.0,254.75
+Women's Street Footwear,2021,12,Sports Direct,Online,3109,1293.861,418.199
+Women's Street Footwear,2021,12,Sports Direct,Outlet,1061,425.659,110.915
+Women's Street Footwear,2021,12,West Gear,In-store,3325,1822.5,610.5
+Women's Street Footwear,2021,12,West Gear,Online,2271,709.962,288.417
+Women's Street Footwear,2021,12,West Gear,Outlet,699,31.787,12.057
